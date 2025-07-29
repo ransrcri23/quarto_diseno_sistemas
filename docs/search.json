@@ -1,0 +1,405 @@
+[
+  {
+    "objectID": "index.html#sobre-este-sitio",
+    "href": "index.html#sobre-este-sitio",
+    "title": "Proyecto de Diseño de Sistemas de Software",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Proyecto de Diseño de Sistemas de Software"
+    ]
+  },
+  {
+    "objectID": "index.html#contenido",
+    "href": "index.html#contenido",
+    "title": "Proyecto de Diseño de Sistemas de Software",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
+    "crumbs": [
+      "Proyecto de Diseño de Sistemas de Software"
+    ]
+  },
+  {
+    "objectID": "index.html#enlaces",
+    "href": "index.html#enlaces",
+    "title": "Proyecto de Diseño de Sistemas de Software",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
+    "crumbs": [
+      "Proyecto de Diseño de Sistemas de Software"
+    ]
+  },
+  {
+    "objectID": "accesibilidad/index.html#sobre-este-sitio",
+    "href": "accesibilidad/index.html#sobre-este-sitio",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Accesibilidad",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "accesibilidad/index.html#contenido",
+    "href": "accesibilidad/index.html#contenido",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
+    "crumbs": [
+      "Accesibilidad",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "accesibilidad/index.html#enlaces",
+    "href": "accesibilidad/index.html#enlaces",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
+    "crumbs": [
+      "Accesibilidad",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "usabilidad/index.html#sobre-este-sitio",
+    "href": "usabilidad/index.html#sobre-este-sitio",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Usabilidad",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "usabilidad/index.html#contenido",
+    "href": "usabilidad/index.html#contenido",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
+    "crumbs": [
+      "Usabilidad",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "usabilidad/index.html#enlaces",
+    "href": "usabilidad/index.html#enlaces",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
+    "crumbs": [
+      "Usabilidad",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "hallazgos/index.html#sobre-este-sitio",
+    "href": "hallazgos/index.html#sobre-este-sitio",
+    "title": "Experiencias y hallazgos del equipo",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Hallazgos",
+      "Experiencias y hallazgos del equipo"
+    ]
+  },
+  {
+    "objectID": "hallazgos/index.html#contenido",
+    "href": "hallazgos/index.html#contenido",
+    "title": "Experiencias y hallazgos del equipo",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
+    "crumbs": [
+      "Hallazgos",
+      "Experiencias y hallazgos del equipo"
+    ]
+  },
+  {
+    "objectID": "hallazgos/index.html#enlaces",
+    "href": "hallazgos/index.html#enlaces",
+    "title": "Experiencias y hallazgos del equipo",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
+    "crumbs": [
+      "Hallazgos",
+      "Experiencias y hallazgos del equipo"
+    ]
+  },
+  {
+    "objectID": "demos/index.html#sobre-este-sitio",
+    "href": "demos/index.html#sobre-este-sitio",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Demos",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "demos/index.html#contenido",
+    "href": "demos/index.html#contenido",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
+    "crumbs": [
+      "Demos",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "demos/index.html#enlaces",
+    "href": "demos/index.html#enlaces",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
+    "crumbs": [
+      "Demos",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "arq/index.html#sobre-este-sitio",
+    "href": "arq/index.html#sobre-este-sitio",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Arquitectura y Tech Stack",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "arq/index.html#contenido",
+    "href": "arq/index.html#contenido",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
+    "crumbs": [
+      "Arquitectura y Tech Stack",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "arq/index.html#enlaces",
+    "href": "arq/index.html#enlaces",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
+    "crumbs": [
+      "Arquitectura y Tech Stack",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "funcionalidades/index.html#sobre-este-sitio",
+    "href": "funcionalidades/index.html#sobre-este-sitio",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Funcionalidades",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "funcionalidades/index.html#contenido",
+    "href": "funcionalidades/index.html#contenido",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
+    "crumbs": [
+      "Funcionalidades",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "funcionalidades/index.html#enlaces",
+    "href": "funcionalidades/index.html#enlaces",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
+    "crumbs": [
+      "Funcionalidades",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "patrones/index.html#sobre-este-sitio",
+    "href": "patrones/index.html#sobre-este-sitio",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Patrones arquitectónicos",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "patrones/index.html#contenido",
+    "href": "patrones/index.html#contenido",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
+    "crumbs": [
+      "Patrones arquitectónicos",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "patrones/index.html#enlaces",
+    "href": "patrones/index.html#enlaces",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
+    "crumbs": [
+      "Patrones arquitectónicos",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "about/index.html#sobre-este-sitio",
+    "href": "about/index.html#sobre-este-sitio",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Sobre el proyecto",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "about/index.html#contenido",
+    "href": "about/index.html#contenido",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
+    "crumbs": [
+      "Sobre el proyecto",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "about/index.html#enlaces",
+    "href": "about/index.html#enlaces",
+    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
+    "crumbs": [
+      "Sobre el proyecto",
+      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
+    ]
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Información General",
+    "section": "",
+    "text": "Logo\n\n\nEl objetivo principal de Nutri Gemini es convertirse en un asistente nutricional con Inteligencia Artificial, que le permita a los profesionales en nutrición automatizar procesos repetitivos y mantener una gestión completa de sus pacientes y registro de sus valoraciones. Por otra parte, también pretende ayudarle a los pacientes a acceder de manera sencilla y agradable a los registro de sus valoraciones, planes nutricionales y gráficas de progreso.\nVisita esta sección para conocer la lista de funcionalidades de la aplicación",
+    "crumbs": [
+      "Sobre el proyecto",
+      "Información General"
+    ]
+  },
+  {
+    "objectID": "funcionalidades/index.html",
+    "href": "funcionalidades/index.html",
+    "title": "Dentro del alcance",
+    "section": "",
+    "text": "Las funcionalidades de este proyecto están orientadas a tres grupos de usuarios: Nutricionistas, Pacientes y Administradores. En esta sección se describen las funcionalidades dentro del alcance para cada tipo de usuario, así como aquellas funcionalidades generales, las cuales son independientes del tipo de sesión.\nVisita esta sección para ver las funcionalidades fuera del alcance\n\nFuncionalidades Generales\n\nPantalla de Bienvenida\nInicio y Cierre de Sesión\nInterfaz con alto contraste\nCompatibilidad con lectores de pantalla\n\n\n\nNutricionistas\n\nDashboard de Nutricionistas\nGestión de Pacientes (Consulta, creación y edición)\nGestión de Valoraciones (Consultra, creación y edición)\nCálculo de macronutrientes con Inteligencia Artificial\nCreación de planes nutricionales con Inteligencia Artificial\nCreación de tablas de equivalencias con Inteligencia Artificial\nDashboard de progreso de pacientes\n\n\n\nPacientes\n\nDashboard de Paciente\nHistorial de Valoraciones\nDetalle de Valoraciones\nAcceso a métricas nutricionales, recomendaciones, planes alimenticios y tablas de equivalencias\nGráficas de progreso\n\n\n\nAdministradores\n\nGestión de Pacientes (Consulta, creación, edición y activación/desactivación)\nGestión de Nutricionistas (Consulta, creación, edición y activación/desactivación)\nGestión de Administradores (Consulta, creación, edición y activación/desactivación)\nGestión de Valoraciones (Consultra, creación y edición)\nCálculo de macronutrientes con Inteligencia Artificial\nCreación de planes nutricionales con Inteligencia Artificial\nCreación de tablas de equivalencias con Inteligencia Artificial\nDashboard de progreso de pacientes",
+    "crumbs": [
+      "Funcionalidades",
+      "Dentro del alcance"
+    ]
+  },
+  {
+    "objectID": "funcionalidades/out.html",
+    "href": "funcionalidades/out.html",
+    "title": "Fuera del alcance",
+    "section": "",
+    "text": "La siguiente lista contiene funcionalidades deseadas pero que no fueron incluídas en esta versión, principalmente por cuestiones de tiempo y complejidad.\n\nFuncionalidades Generales\n\nReset de credenciales\nDoble autenticación\nAletras por correo electrónico\nCompatibilidad con lectores de pantalla\n\n\n\nNutricionistas\n\nMódulo para agendar citas a través de la aplicación\nConsulta de agenda\nChat con la Inteligencia Artificial\n\n\n\nPacientes\n\nChat con la Inteligencia Artificial\nReserva de citas a través de la aplicación\nMódulo para contactar al nutricionista\n\n\n\nAdministradores\n\nSistema de tiquetes",
+    "crumbs": [
+      "Funcionalidades",
+      "Fuera del alcance"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Flujos de la aplicación",
+    "section": "",
+    "text": "En esta sección se describen los flujos principales de la aplicación.\n\nIniciar Sesión (Cualquier usuario)\n\n\nActivar modo de alto contraste (Cualquier usuario)\n\n\nDesactivar/Activar un usuario (Usuario de aministrador)\n\n\nCrear un nutricionista (Usuario de administrador)\n\n\nCrear un paciente (Usuario de nutricionista o administrador)\n\n\nCrear una valoración (Usuario de nutricionista o administrador)\n\n\nVer Historial de Valoraciones (Usuario de paciente)\n\n\nVer Detalle de Valoracion con recomendaciones, plan nutricional y tabla de equivalencias (Usuario de paciente)\n\n\nVer gráficas de progreso (Usuario de paciente)",
+    "crumbs": [
+      "Flujos de la aplicación"
+    ]
+  },
+  {
+    "objectID": "arq/index.html",
+    "href": "arq/index.html",
+    "title": "Tecnologías utilizadas",
+    "section": "",
+    "text": "Backend\n\nDjango 5.2.2\nPython\n\n\n\nAI en la aplicación\n\nGoogle Gemini AI\n\n\n\nAI para desarrollo\n\nWarp\n\n\n\nBase de datos\n\nPostgreSQL en Railway\n\n\n\nFrontend\n\nBootstrap 5\nJavaScript\n\n\n\nContenedores\n\nDocker + Docker Compose\n\n\n\nVersionamiento\n\nGithub\n\n\n\nPrototipado\n\nFigma\n\n\n\nDocumentación\n\nQuarto\nHTML",
+    "crumbs": [
+      "Tech Stack",
+      "Tecnologías utilizadas"
+    ]
+  },
+  {
+    "objectID": "demos/index.html",
+    "href": "demos/index.html",
+    "title": "Diagramas",
+    "section": "",
+    "text": "En esta sección se describen los flujos principales de la aplicación.\n\nIniciar Sesión (Cualquier usuario)\n\n\nActivar modo de alto contraste (Cualquier usuario)\n\n\nDesactivar/Activar un usuario (Usuario de aministrador)\n\n\nCrear un nutricionista (Usuario de administrador)\n\n\nCrear un paciente (Usuario de nutricionista o administrador)\n\n\nCrear una valoración (Usuario de nutricionista o administrador)\n\n\nVer Historial de Valoraciones (Usuario de paciente)\n\n\nVer Detalle de Valoracion con recomendaciones, plan nutricional y tabla de equivalencias (Usuario de paciente)\n\n\nVer gráficas de progreso (Usuario de paciente)",
+    "crumbs": [
+      "FLujos de la aplicación",
+      "Diagramas"
+    ]
+  },
+  {
+    "objectID": "instalacion/index.html",
+    "href": "instalacion/index.html",
+    "title": "Guía de ejecución",
+    "section": "",
+    "text": "Las funcionalidades de este proyecto están orientadas a tres grupos de usuarios: Nutricionistas, Pacientes y Administradores. En esta sección se describen las funcionalidades dentro del alcance para cada tipo de usuario, así como aquellas funcionalidades generales, las cuales son independientes del tipo de sesión.\nVisita esta sección para ver las funcionalidades fuera del alcance\n\nFuncionalidades Generales\n\nPantalla de Bienvenida\nInicio y Cierre de Sesión\nInterfaz con alto contraste\nCompatibilidad con lectores de pantalla\n\n\n\nNutricionistas\n\nDashboard de Nutricionistas\nGestión de Pacientes (Consulta, creación y edición)\nGestión de Valoraciones (Consultra, creación y edición)\nCálculo de macronutrientes con Inteligencia Artificial\nCreación de planes nutricionales con Inteligencia Artificial\nCreación de tablas de equivalencias con Inteligencia Artificial\nDashboard de progreso de pacientes\n\n\n\nPacientes\n\nDashboard de Paciente\nHistorial de Valoraciones\nDetalle de Valoraciones\nAcceso a métricas nutricionales, recomendaciones, planes alimenticios y tablas de equivalencias\nGráficas de progreso\n\n\n\nAdministradores\n\nGestión de Pacientes (Consulta, creación, edición y activación/desactivación)\nGestión de Nutricionistas (Consulta, creación, edición y activación/desactivación)\nGestión de Administradores (Consulta, creación, edición y activación/desactivación)\nGestión de Valoraciones (Consultra, creación y edición)\nCálculo de macronutrientes con Inteligencia Artificial\nCreación de planes nutricionales con Inteligencia Artificial\nCreación de tablas de equivalencias con Inteligencia Artificial\nDashboard de progreso de pacientes",
+    "crumbs": [
+      "Instalación",
+      "Guía de ejecución"
+    ]
+  },
+  {
+    "objectID": "caracteristicas/patrones.html",
+    "href": "caracteristicas/patrones.html",
+    "title": "Patrones Arquitectónicos",
+    "section": "",
+    "text": "Backend\n\nDjango 5.2.2\nPython\n\n\n\nAI en la aplicación\n\nGoogle Gemini AI\n\n\n\nAI para desarrollo\n\nWarp\n\n\n\nBase de datos\n\nPostgreSQL en Railway\n\n\n\nFrontend\n\nBootstrap 5\nJavaScript\n\n\n\nContenedores\n\nDocker + Docker Compose\n\n\n\nVersionamiento\n\nGithub\n\n\n\nPrototipado\n\nFigma\n\n\n\nDocumentación\n\nQuarto\nHTML",
+    "crumbs": [
+      "Caracteristicas",
+      "Patrones Arquitectónicos"
+    ]
+  },
+  {
+    "objectID": "caracteristicas/accesibilidad.html",
+    "href": "caracteristicas/accesibilidad.html",
+    "title": "Accesibilidad",
+    "section": "",
+    "text": "Backend\n\nDjango 5.2.2\nPython\n\n\n\nAI en la aplicación\n\nGoogle Gemini AI\n\n\n\nAI para desarrollo\n\nWarp\n\n\n\nBase de datos\n\nPostgreSQL en Railway\n\n\n\nFrontend\n\nBootstrap 5\nJavaScript\n\n\n\nContenedores\n\nDocker + Docker Compose\n\n\n\nVersionamiento\n\nGithub\n\n\n\nPrototipado\n\nFigma\n\n\n\nDocumentación\n\nQuarto\nHTML",
+    "crumbs": [
+      "Caracteristicas",
+      "Accesibilidad"
+    ]
+  },
+  {
+    "objectID": "caracteristicas/usabilidad.html",
+    "href": "caracteristicas/usabilidad.html",
+    "title": "Usabilidad",
+    "section": "",
+    "text": "Backend\n\nDjango 5.2.2\nPython\n\n\n\nAI en la aplicación\n\nGoogle Gemini AI\n\n\n\nAI para desarrollo\n\nWarp\n\n\n\nBase de datos\n\nPostgreSQL en Railway\n\n\n\nFrontend\n\nBootstrap 5\nJavaScript\n\n\n\nContenedores\n\nDocker + Docker Compose\n\n\n\nVersionamiento\n\nGithub\n\n\n\nPrototipado\n\nFigma\n\n\n\nDocumentación\n\nQuarto\nHTML",
+    "crumbs": [
+      "Caracteristicas",
+      "Usabilidad"
+    ]
+  }
+]

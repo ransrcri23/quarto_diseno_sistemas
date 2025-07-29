@@ -1,0 +1,41 @@
+/* Colores azulados */
+:root {
+  --primary-blue: #2E86AB;
+  --light-blue: #A23B72;
+  --dark-blue: #1A5276;
+  --accent-blue: #5DADE2;
+}
+
+/* Sidebar personalizada */
+.sidebar {
+  background-color: #F8F9FA;
+  border-right: 2px solid var(--primary-blue);
+}
+
+.sidebar .nav-link {
+  color: var(--dark-blue);
+}
+
+.sidebar .nav-link:hover {
+  color: var(--primary-blue);
+  background-color: #E3F2FD;
+}
+
+/* Títulos */
+h1, h2, h3 {
+  color: var(--dark-blue);
+}
+
+/* Enlaces */
+a {
+  color: var(--primary-blue);
+}
+
+a:hover {
+  color: var(--dark-blue);
+}
+
+/* Navbar */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}

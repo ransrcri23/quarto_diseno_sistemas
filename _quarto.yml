@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PSWE-04 Diseño de Sistemas de Software"
+  navbar:
+    background: "#2E8B57"
+    foreground: white
+    search: true
+
+  sidebar:
+    background: "#F8F9FA"
+    contents:
+      - index.qmd
+      - section: "Sobre el proyecto"
+        contents:
+          - about/index.qmd
+      - section: "Funcionalidades"
+        contents:
+          - funcionalidades/index.qmd
+          - funcionalidades/out.qmd
+      - section: "Flujos de la aplicación"
+        contents:
+          - demos/index.qmd
+      - section: "Tech Stack"
+        contents:
+          - arq/index.qmd
+      - section: "Caracteristicas"
+        contents:
+          - caracteristicas/accesibilidad.qmd
+          - caracteristicas/usabilidad.qmd
+          - caracteristicas/patrones.qmd
+      - section: "Instalación"
+        contents:
+          - instalacion/index.qmd
+      - section: "Hallazgos"
+        contents:
+          - hallazgos/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3

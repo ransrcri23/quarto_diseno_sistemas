@@ -1,0 +1,300 @@
+/* Colores verdes */
+:root {
+  --primary-green: #2E8B57;
+  --dark-green: #1A5D27;
+  --accent-green: #5DE27A;
+}
+
+/* SIDEBAR - Elementos normales */
+.sidebar .nav-link,
+.sidebar .sidebar-item .sidebar-item-text,
+.sidebar .sidebar-item a {
+  color: #666666;
+  font-weight: normal;
+}
+
+/* SIDEBAR - Hover */
+.sidebar .nav-link:hover,
+.sidebar .sidebar-item:hover .sidebar-item-text,
+.sidebar .sidebar-item:hover a {
+  color: var(--primary-green);
+  background-color: #F0F8F0;
+}
+
+/* SIDEBAR - Elemento activo SOLO EN NEGRITA */
+.sidebar .sidebar-item.active .sidebar-item-text,
+.sidebar .sidebar-item.active a,
+.sidebar .nav-link.active {
+  color: var(--dark-green) !important;
+  font-weight: bold !important;
+  background-color: transparent !important;
+}
+
+/* Sobreescribir cualquier color azul que pueda quedar */
+.text-info, .text-primary {
+  color: var(--primary-green) !important;
+}
+
+.bg-info, .bg-primary {
+  background-color: var(--primary-green) !important;
+}
+
+.border-info, .border-primary {
+  border-color: var(--primary-green) !important;
+}
+
+/* Títulos */
+h1, h2, h3 {
+  color: var(--dark-green);
+}
+
+/* Enlaces */
+a {
+  color: var(--primary-green);
+}
+
+a:hover {
+  color: var(--dark-green);
+}
+
+/* Navbar */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Botones y elementos interactivos */
+.btn-primary {
+  background-color: var(--primary-green);
+  border-color: var(--primary-green);
+}
+
+.btn-primary:hover {
+  background-color: var(--dark-green);
+  border-color: var(--dark-green);
+}
+
+/* Código y bloques destacados */
+.sourceCode {
+  border-left: 3px solid var(--accent-green);
+}
+
+/* Tabla de contenidos */
+.toc-actions a {
+  color: var(--primary-green);
+}
+
+/* Tabla de contenidos de la derecha (On this page) */
+.toc-title {
+  color: var(--dark-green);
+}
+
+.toc .nav-link {
+  color: #666666 !important;
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.toc .nav-link:hover {
+  color: var(--primary-green) !important;
+  background-color: transparent !important;
+}
+
+.toc .nav-link.active {
+  color: var(--primary-green) !important;
+  background-color: transparent !important;
+  border-left: 2px solid var(--primary-green) !important;
+  font-weight: normal;
+}
+
+/* Elementos específicos del TOC */
+.table-of-contents .nav-link {
+  color: #666666 !important;
+  background-color: transparent !important;
+}
+
+.table-of-contents .nav-link:hover {
+  color: var(--primary-green) !important;
+  background-color: transparent !important;
+}
+
+.table-of-contents .nav-link.active {
+  color: var(--primary-green) !important;
+  background-color: transparent !important;
+  border-left: 2px solid var(--primary-green) !important;
+}
+
+/* Para cualquier elemento del TOC que pueda tener estilos azules */
+.toc ul li a,
+.table-of-contents ul li a,
+#TOC ul li a {
+  color: #666666 !important;
+  background-color: transparent !important;
+}
+
+.toc ul li a:hover,
+.table-of-contents ul li a:hover,
+#TOC ul li a:hover {
+  color: var(--primary-green) !important;
+  background-color: transparent !important;
+}
+
+.toc ul li a.active,
+.table-of-contents ul li a.active,
+#TOC ul li a.active {
+  color: var(--primary-green) !important;
+  background-color: transparent !important;
+  border-left: 2px solid var(--primary-green) !important;
+}
+
+/* Reglas adicionales para TOC de la derecha - eliminar fondos verdes y azules */
+.toc-contents .nav-link,
+.toc-contents .nav-link.active,
+.toc .nav-link,
+.toc .nav-link.active,
+#toc .nav-link,
+#toc .nav-link.active,
+.table-of-contents .nav-link,
+.table-of-contents .nav-link.active,
+.quarto-toc .nav-link,
+.quarto-toc .nav-link.active {
+  background-color: transparent !important;
+  background: transparent !important;
+}
+
+/* Override específico para elementos activos del TOC de la derecha */
+.toc .nav-link.active,
+.table-of-contents .nav-link.active,
+#toc .nav-link.active,
+.quarto-toc .nav-link.active {
+  color: var(--primary-green) !important;
+  background-color: transparent !important;
+  background: transparent !important;
+  border-left: 2px solid var(--primary-green) !important;
+  border-right: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
+/* Eliminar cualquier color azul específico del TOC */
+.toc a[style*="color: blue"],
+.toc .nav-link[style*="color: blue"],
+.table-of-contents a[style*="color: blue"],
+.table-of-contents .nav-link[style*="color: blue"] {
+  color: var(--primary-green) !important;
+}
+
+/* Reglas adicionales para eliminar cualquier fondo verde del TOC de la derecha */
+.toc, .toc *, .toc .nav-link, .toc .nav-item,
+.table-of-contents, .table-of-contents *, .table-of-contents .nav-link, .table-of-contents .nav-item,
+#toc, #toc *, #toc .nav-link, #toc .nav-item,
+.quarto-toc, .quarto-toc *, .quarto-toc .nav-link, .quarto-toc .nav-item {
+  background-color: transparent !important;
+  background: transparent !important;
+}
+
+/* Eliminar fondos de elementos activos específicamente en el TOC de la derecha */
+.toc .nav-link.active, .toc .nav-item.active, .toc .active,
+.table-of-contents .nav-link.active, .table-of-contents .nav-item.active, .table-of-contents .active,
+#toc .nav-link.active, #toc .nav-item.active, #toc .active,
+.quarto-toc .nav-link.active, .quarto-toc .nav-item.active, .quarto-toc .active {
+  background-color: transparent !important;
+  background: transparent !important;
+  color: var(--primary-green) !important;
+  border-left: 2px solid var(--primary-green) !important;
+  border-right: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
+/* Override cualquier regla general que pueda estar aplicando fondo verde */
+.toc .nav-link:not(.sidebar .nav-link),
+.table-of-contents .nav-link:not(.sidebar .nav-link),
+#toc .nav-link:not(.sidebar .nav-link),
+.quarto-toc .nav-link:not(.sidebar .nav-link) {
+  background-color: transparent !important;
+  background: transparent !important;
+  color: #666666 !important;
+}
+
+.toc .nav-link.active:not(.sidebar .nav-link),
+.table-of-contents .nav-link.active:not(.sidebar .nav-link),
+#toc .nav-link.active:not(.sidebar .nav-link),
+.quarto-toc .nav-link.active:not(.sidebar .nav-link) {
+  background-color: transparent !important;
+  background: transparent !important;
+  color: var(--primary-green) !important;
+}
+
+/* Alertas y callouts */
+.callout-note {
+  border-left-color: var(--primary-green);
+}
+
+.callout-note .callout-icon {
+  color: var(--primary-green);
+}
+
+/* Elementos adicionales con tema verde */
+.btn-outline-primary {
+  color: var(--primary-green);
+  border-color: var(--primary-green);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--primary-green);
+  border-color: var(--primary-green);
+}
+
+/* Tabs */
+.nav-tabs .nav-link.active {
+  color: var(--primary-green);
+  border-bottom-color: var(--primary-green);
+}
+
+/* Progress bars */
+.progress-bar {
+  background-color: var(--primary-green);
+}
+
+/* Cards con acento verde */
+.card-header {
+  border-bottom: 2px solid var(--accent-green);
+}
+
+/* Texto enfatizado */
+.text-primary {
+  color: var(--primary-green) !important;
+}
+
+/* Badges */
+.badge {
+  background-color: var(--accent-green);
+  color: var(--dark-green);
+}
+
+/* Reglas adicionales para elemento activo del sidebar */
+.sidebar .active,
+.sidebar .active .sidebar-item-text,
+.sidebar .active a {
+  color: var(--dark-green) !important;
+  font-weight: bold !important;
+  background-color: transparent !important;
+}
+
+/* Navbar específico */
+.navbar-brand {
+  color: white !important;
+}
+
+/* Override para colores azules inline específicos */
+*[style*="color: #007bff"],
+*[style*="background-color: #007bff"],
+*[style*="border-color: #007bff"],
+*[style*="color: #0d6efd"],
+*[style*="background-color: #0d6efd"],
+*[style*="border-color: #0d6efd"] {
+  color: var(--primary-green) !important;
+  background-color: var(--primary-green) !important;
+  border-color: var(--primary-green) !important;
+}
+

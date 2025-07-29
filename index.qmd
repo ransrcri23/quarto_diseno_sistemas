@@ -1,0 +1,57 @@
+---
+title: "Proyecto de Diseño de Sistemas de Software"
+---
+
+<br><br>
+
+![Cenfotec](/recursos/cenfotec.png){fig-align="left" width=75%}
+
+<br><br>
+
+### Estudiantes
+
+- Manuel Sanabria Montoya
+- Randall Sánchez Rivera
+
+
+## Sobre este sitio
+
+Este sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.
+
+## Contenido
+
+### [Sobre el proyecto](about/index.qmd)
+En esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.
+
+### [Funcionalidades](funcionalidades/index.qmd)
+
+En esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.
+
+### [Demos](demos/index.qmd)
+
+En esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.
+
+### [Arquitectura y Tech Stack](arq/index.qmd)
+
+En esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.
+
+### [Patrones Arquitectónicos](patrones/index.qmd)
+
+En esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.
+
+### [Usabilidad](usabilidad/index.qmd)
+
+En esta sección podrás conocer las características de usabilidad de la aplicación.
+
+### [Accesibilidad](accesibilidad/index.qmd)
+
+En esta sección podrás conocer las características de accesibilidad de la aplicación.
+
+### [Hallazgos](hallazgos/index.qmd)
+
+En esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto
+
+## Enlaces
+
+- [**Enlace al repositorio de Github del proyecto**](https://github.com/ransrcri23/nutri_gemini)
+- [**Enlace al repositorio de Github de esta documentación**](https://github.com/ransrcri23/quarto_diseno_sistemas)

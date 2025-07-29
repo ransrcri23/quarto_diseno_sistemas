@@ -1,0 +1,40 @@
+---
+title: "Usabilidad"
+---
+
+### Backend
+
+- Django 5.2.2
+- Python
+
+### AI en la aplicación
+- Google Gemini AI
+
+### AI para desarrollo
+- Warp
+
+### Base de datos
+
+- PostgreSQL en Railway
+
+### Frontend
+
+- Bootstrap 5
+- JavaScript
+
+### Contenedores
+
+- Docker + Docker Compose
+
+### Versionamiento
+
+- Github
+
+### Prototipado
+
+- Figma
+
+### Documentación
+
+- Quarto
+- HTML

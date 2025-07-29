@@ -1,0 +1,29 @@
+---
+title: "Fuera del alcance"
+---
+
+La siguiente lista contiene funcionalidades deseadas pero que no fueron incluídas en esta versión, principalmente por cuestiones de tiempo y complejidad.
+
+### Funcionalidades Generales
+
+- Reset de credenciales
+- Doble autenticación
+- Aletras por correo electrónico
+- Compatibilidad con lectores de pantalla
+
+### Nutricionistas
+
+- Módulo para agendar citas a través de la aplicación
+- Consulta de agenda
+- Chat con la Inteligencia Artificial
+
+### Pacientes
+
+- Chat con la Inteligencia Artificial
+- Reserva de citas a través de la aplicación
+- Módulo para contactar al nutricionista
+
+### Administradores
+
+- Sistema de tiquetes
+

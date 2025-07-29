@@ -1,0 +1,43 @@
+---
+title: "Guía de ejecución"
+---
+
+Las funcionalidades de este proyecto están orientadas a tres grupos de usuarios: Nutricionistas, Pacientes y Administradores. En esta sección se describen las funcionalidades dentro del alcance para cada tipo de usuario, así como aquellas funcionalidades generales, las cuales son independientes del tipo de sesión.
+
+[Visita esta sección](funcionalidades/out.qmd) para ver las funcionalidades fuera del alcance
+
+### Funcionalidades Generales
+
+- Pantalla de Bienvenida
+- Inicio y Cierre de Sesión
+- Interfaz con alto contraste
+- Compatibilidad con lectores de pantalla
+
+### Nutricionistas
+
+- Dashboard de Nutricionistas
+- Gestión de Pacientes (Consulta, creación y edición)
+- Gestión de Valoraciones (Consultra, creación y edición)
+- Cálculo de macronutrientes con Inteligencia Artificial
+- Creación de planes nutricionales con Inteligencia Artificial
+- Creación de tablas de equivalencias con Inteligencia Artificial
+- Dashboard de progreso de pacientes
+
+### Pacientes
+
+- Dashboard de Paciente
+- Historial de Valoraciones
+- Detalle de Valoraciones
+- Acceso a métricas nutricionales, recomendaciones, planes alimenticios y tablas de equivalencias
+- Gráficas de progreso
+
+### Administradores
+
+- Gestión de Pacientes (Consulta, creación, edición y activación/desactivación)
+- Gestión de Nutricionistas (Consulta, creación, edición y activación/desactivación)
+- Gestión de Administradores (Consulta, creación, edición y activación/desactivación)
+- Gestión de Valoraciones (Consultra, creación y edición)
+- Cálculo de macronutrientes con Inteligencia Artificial
+- Creación de planes nutricionales con Inteligencia Artificial
+- Creación de tablas de equivalencias con Inteligencia Artificial
+- Dashboard de progreso de pacientes

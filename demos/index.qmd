@@ -1,0 +1,23 @@
+---
+title: "Diagramas"
+---
+
+En esta sección se describen los flujos principales de la aplicación.
+
+### Iniciar Sesión (Cualquier usuario)
+
+### Activar modo de alto contraste (Cualquier usuario)
+
+### Desactivar/Activar un usuario (Usuario de aministrador)
+
+### Crear un nutricionista (Usuario de administrador)
+
+### Crear un paciente (Usuario de nutricionista o administrador)
+
+### Crear una valoración (Usuario de nutricionista o administrador)
+
+### Ver Historial de Valoraciones (Usuario de paciente)
+
+### Ver Detalle de Valoracion con recomendaciones, plan nutricional y tabla de equivalencias (Usuario de paciente)
+
+### Ver gráficas de progreso (Usuario de paciente)
