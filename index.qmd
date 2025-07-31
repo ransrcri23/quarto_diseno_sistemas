@@ -70,3 +70,4 @@ En esta sección están documentados los hallazgos del grupo de trabajo con resp
 
 - [**Enlace al repositorio de Github del proyecto**](https://github.com/ransrcri23/nutri_gemini)
 - [**Enlace al repositorio de Github de esta documentación**](https://github.com/ransrcri23/quarto_diseno_sistemas)
+- Acá podrás descargar la presentación del proyecto: <a href="/recursos/Nutri Gemini.html" download>**HTML (Mejor calidad)**</a> | <a href="/recursos/Nutri Gemini.pdf" download>**PDF**</a>
