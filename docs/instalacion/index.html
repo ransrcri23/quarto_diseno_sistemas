@@ -20,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -126,6 +161,18 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Información General</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about/arquitectura.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Arquitectura de Información</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about/figma.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Figma</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -163,7 +210,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../demos/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Diagramas</span></a>
+ <span class="menu-text">Descripción de flujos</span></a>
   </div>
 </li>
       </ul>
@@ -258,10 +305,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#funcionalidades-generales" id="toc-funcionalidades-generales" class="nav-link active" data-scroll-target="#funcionalidades-generales">Funcionalidades Generales</a></li>
-  <li><a href="#nutricionistas" id="toc-nutricionistas" class="nav-link" data-scroll-target="#nutricionistas">Nutricionistas</a></li>
-  <li><a href="#pacientes" id="toc-pacientes" class="nav-link" data-scroll-target="#pacientes">Pacientes</a></li>
-  <li><a href="#administradores" id="toc-administradores" class="nav-link" data-scroll-target="#administradores">Administradores</a></li>
+  <li><a href="#guía-de-ejecución" id="toc-guía-de-ejecución" class="nav-link active" data-scroll-target="#guía-de-ejecución">Guía de ejecución</a></li>
+  <li><a href="#disclaimers" id="toc-disclaimers" class="nav-link" data-scroll-target="#disclaimers">Disclaimers</a></li>
   </ul>
 </nav>
     </div>
@@ -287,51 +332,40 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Las funcionalidades de este proyecto están orientadas a tres grupos de usuarios: Nutricionistas, Pacientes y Administradores. En esta sección se describen las funcionalidades dentro del alcance para cada tipo de usuario, así como aquellas funcionalidades generales, las cuales son independientes del tipo de sesión.</p>
-<p><a href="funcionalidades/out.qmd">Visita esta sección</a> para ver las funcionalidades fuera del alcance</p>
-<section id="funcionalidades-generales" class="level3">
-<h3 class="anchored" data-anchor-id="funcionalidades-generales">Funcionalidades Generales</h3>
+<p>A continuación se facilita un paso a paso para la ejecución de la aplicación.</p>
+<section id="guía-de-ejecución" class="level2">
+<h2 class="anchored" data-anchor-id="guía-de-ejecución">Guía de ejecución</h2>
+<ol type="1">
+<li><p><strong>Clonar y configurar</strong></p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> clone https://github.com/ransrcri23/nutri_gemini.git</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> nutri_gemini</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">cp</span> example.env .env  <span class="co"># Luego editar .env con tus credenciales</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p><strong>Configurar variables en .env</strong></p>
 <ul>
-<li>Pantalla de Bienvenida</li>
-<li>Inicio y Cierre de Sesión</li>
-<li>Interfaz con alto contraste</li>
-<li>Compatibilidad con lectores de pantalla</li>
-</ul>
+<li><code>GOOGLE_API_KEY</code>: <a href="https://makersuite.google.com/app/apikey">Obtener desde Google AI Studio</a></li>
+<li><code>DATABASE_URL</code>: Tu URL de PostgreSQL</li>
+</ul></li>
+<li><p><strong>Ejecutar con Docker</strong></p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">docker-compose</span> up <span class="at">--build</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p><strong>Acceder a la aplicación</strong></p>
+<ul>
+<li>URL: http://localhost:8000</li>
+<li>Admin: <code>admin@nutricion.com</code> / <code>admin123</code></li>
+</ul></li>
+<li><p><strong>Detener</strong> (cuando termines)</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">docker-compose</span> down</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+</ol>
 </section>
-<section id="nutricionistas" class="level3">
-<h3 class="anchored" data-anchor-id="nutricionistas">Nutricionistas</h3>
+<section id="disclaimers" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimers">Disclaimers</h2>
 <ul>
-<li>Dashboard de Nutricionistas</li>
-<li>Gestión de Pacientes (Consulta, creación y edición)</li>
-<li>Gestión de Valoraciones (Consultra, creación y edición)</li>
-<li>Cálculo de macronutrientes con Inteligencia Artificial</li>
-<li>Creación de planes nutricionales con Inteligencia Artificial</li>
-<li>Creación de tablas de equivalencias con Inteligencia Artificial</li>
-<li>Dashboard de progreso de pacientes</li>
+<li><strong>Configuración requerida</strong>: Debes configurar tus propias credenciales en <code>.env</code></li>
+<li><strong>API Key</strong>: Necesitas una <code>GOOGLE_API_KEY</code> válida para que funcione la IA</li>
+<li><strong>Base de datos</strong>: Requiere una instancia PostgreSQL configurada en <code>DATABASE_URL</code></li>
+<li><strong>Primera ejecución</strong>: Puede tomar varios minutos descargar dependencias</li>
 </ul>
-</section>
-<section id="pacientes" class="level3">
-<h3 class="anchored" data-anchor-id="pacientes">Pacientes</h3>
-<ul>
-<li>Dashboard de Paciente</li>
-<li>Historial de Valoraciones</li>
-<li>Detalle de Valoraciones</li>
-<li>Acceso a métricas nutricionales, recomendaciones, planes alimenticios y tablas de equivalencias</li>
-<li>Gráficas de progreso</li>
-</ul>
-</section>
-<section id="administradores" class="level3">
-<h3 class="anchored" data-anchor-id="administradores">Administradores</h3>
-<ul>
-<li>Gestión de Pacientes (Consulta, creación, edición y activación/desactivación)</li>
-<li>Gestión de Nutricionistas (Consulta, creación, edición y activación/desactivación)</li>
-<li>Gestión de Administradores (Consulta, creación, edición y activación/desactivación)</li>
-<li>Gestión de Valoraciones (Consultra, creación y edición)</li>
-<li>Cálculo de macronutrientes con Inteligencia Artificial</li>
-<li>Creación de planes nutricionales con Inteligencia Artificial</li>
-<li>Creación de tablas de equivalencias con Inteligencia Artificial</li>
-<li>Dashboard de progreso de pacientes</li>
-</ul>
+<p><strong>Nota:</strong> <a href="https://drive.google.com/drive/folders/1IXyiHmwqJEmgfS1ljhErB8-k6-_U0CxS?usp=drive_link">En este enlace</a> puedes solicitar acceso para descargar el archivo <code>.env</code> con el <code>GOOGLE_API_KEY</code> y <code>DATABASE_URL</code> de los desarrolladores de Nutri Gemini, así como una lista de credenciales para usuarios de prueba.</p>
+<p><em>La aprobación de acceso a estas credenciales queda a discreción de los colaboradores de este proyecto.</em></p>
 
 
 </section>

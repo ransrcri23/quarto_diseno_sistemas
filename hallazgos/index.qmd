@@ -2,56 +2,22 @@
 title: "Experiencias y hallazgos del equipo"
 ---
 
-<br><br>
+A continuación se detallan algunos de las principales experiencias y hallazgos del equipo durante el desarrollo de este proyecto. Los hallazgos se agruparon en cuatro categorías: Diseño, Accesibilidad, Experiencia del usuario y Desarollo.
 
-![Cenfotec](/recursos/cenfotec.png){fig-align="left" width=75%}
+### Diseño
 
-<br><br>
+Entre los principales hallazgos de la etapa de diseñar la aplicación, podemos resaltar la importancia de la arquitectura de información. Si bien es cierto, es un proceso que toma un cierto tiempo y esfuerzo, es una gran herramienta para procurar el desarrollo de una aplicación que aporte valor y que además, esté bien estructurada y sea de un uso sencillo y agradable para el usuario. Una vez completada la arquitectura de información y el figma, el desarrollo de la aplicación se hace más sencillo y promueve la integridad conceptual del equipo de desarrollo.
 
-### Estudiantes
+### Accesibilidad
 
-- Manuel Sanabria Montoya
-- Randall Sánchez Rivera
+El taller de accesibilidad fue revelador pues nos permitió conocer de primera mano los desafíos que experimentan las personas con discapacidad a la hora de utilizar sistemas información. Esta experiencia nos hizo más sensibles y considerados a la hora de desarrollar software. Esta aplicación fue desarrollada teniendo en cuenta a la población con disapacidad en todo momento.
 
+### Experiencia del usuario
 
-## Sobre este sitio
+La correcta estructuración y definición de la arquitectura de información nos facilitó el proceso de diseño de la interfaz de la aplicación, guiandonos en todo momento por buenas prácticas y estándares de usabilidad. Esta utilización de buenas prácticas se nota en la limpieza y navegación intuitiva que tiene NutriGemini.
 
-Este sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.
+### Desarrollo
 
-## Contenido
+El uso de patrones nos permitió identificar secciones del código que pueder ser optimizadas y desarrollar una aplicación que es relativamente mantener y escalar en el futuro. Algunas secciones fueron refactorizadas antes de la finalización del proyecto funcional, otras fuero apropiadamente idenficadas para ser refactorizadas en el futuro.
 
-### [Sobre el proyecto](demo/index.qmd)
-En esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.
-
-### [Funcionalidades](demo/index.qmd)
-
-En esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.
-
-### [Demos](demo/index.qmd)
-
-En esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.
-
-### [Arquitectura y Tech Stack](demo/index.qmd)
-
-En esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.
-
-### [Patrones Arquitectónicos](demo/index.qmd)
-
-En esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.
-
-### [Usabilidad](demo/index.qmd)
-
-En esta sección podrás conocer las características de usabilidad de la aplicación.
-
-### [Accesibilidad](demo/index.qmd)
-
-En esta sección podrás conocer las características de accesibilidad de la aplicación.
-
-### [Hallazgos](demo/index.qmd)
-
-En esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto
-
-## Enlaces
-
-- [**Enlace al repositorio de Github del proyecto**](demo/index.qmd)
-- [**Enlace al repositorio de Github de esta documentación**](demo/index.qmd)
+Por otra parte, el equipo aprovechó los beneficios de la Inteligencia Artificial como asistente a la hora de desarrollar. Sobre este tema, nuestro principal hallazgo es la necesidad de tener un ojo crítico y de tener tomar un buen tiempo para depurar y entender la lógica detrás de los resultados. La inteligencia artificial, sin duda es de gran beneficio para agilizar el desarrollo de aplicaciones y puede ser perfectamente aprovechada siempre y cuando se utilicen los prompts correctos y sea usada para aumentar las capacidades del desarrollador y no para reemplazarlo. Su uso nos permite dedicarnos a temas más profundos y relevantes al tiempo que reducimos el esfuerzo en tareas repetitivas.

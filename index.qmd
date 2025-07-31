@@ -20,36 +20,51 @@ Este sitio contiene la documentación del proyecto funcional del curso de Diseñ
 
 ## Contenido
 
-### [Sobre el proyecto](about/index.qmd)
-En esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.
+### Sobre el proyecto
+En esta sección podrás ver información general sobre el contexto de negocio y etapas tempranas del proceso de diseño de la aplicación Nutri Gemini.
 
-### [Funcionalidades](funcionalidades/index.qmd)
+- [Información General](about/index.qmd)
+- [Arquitectura de la Información](about/arquitectura.qmd)
+- [Figma](about/figma.qmd)
+
+### Funcionalidades
 
 En esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.
 
-### [Demos](demos/index.qmd)
+- [Dentro del alcance](funcionalidades/index.qmd)
+- [Fuera del alcance](funcionalidades/out.qmd)
 
-En esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.
+### Flujos de la aplicación
 
-### [Arquitectura y Tech Stack](arq/index.qmd)
+En esta sección podrás observar algunos de los principales flujos del sistema Nutri Gemini.
 
-En esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.
+- [Descripción de flujos](demos/index.qmd)
 
-### [Patrones Arquitectónicos](patrones/index.qmd)
+### Tech Stack
 
-En esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.
+En esta sección podrás conocer las tecnologías utilizadas para su desarrollo.
 
-### [Usabilidad](usabilidad/index.qmd)
+- [Tecnologías utilizadas](arq/index.qmd)
 
-En esta sección podrás conocer las características de usabilidad de la aplicación.
+### Características
 
-### [Accesibilidad](accesibilidad/index.qmd)
+En esta sección podrás conocer características de la aplicación relacionadas con Accesibilidad, Usabilidad y Patrones de diseño.
 
-En esta sección podrás conocer las características de accesibilidad de la aplicación.
+- [Accesibilidad](caracteristicas/accesibilidad.qmd)
+- [Usabilidad](caracteristicas/usabilidad.qmd)
+- [Patrones Arquitectónicos](caracteristicas/patrones.qmd)
 
-### [Hallazgos](hallazgos/index.qmd)
+### Instalación
+
+En esta sección podrás encontrar un paso a paso para la ejecución de la aplicación.
+
+- [Guía de ejecución](instalacion/index.qmd)
+
+### Hallazgos
 
 En esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto
+
+- [Experiencias y hallazgos del equipo](hallazgos/index.qmd)
 
 ## Enlaces
 

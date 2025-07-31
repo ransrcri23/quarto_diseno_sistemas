@@ -2,39 +2,20 @@
 title: "Usabilidad"
 ---
 
-### Backend
+<a href="./recursos/Informe - Usabilidad Sanabria Montoya, Sanchéz Rivera.pdf" download>En este enlace</a> puedes descargar nuestro informe de Usabilidad.
 
-- Django 5.2.2
-- Python
+La aplicación fue desarrollaba tomando en cuenta las 10 heurísticas de usabilidad definidas por Jakob Nielsen, asegurando 
+que el sistema sea eficiente, amigable, predecible y tolerante a errores.
 
-### AI en la aplicación
-- Google Gemini AI
-
-### AI para desarrollo
-- Warp
-
-### Base de datos
-
-- PostgreSQL en Railway
-
-### Frontend
-
-- Bootstrap 5
-- JavaScript
-
-### Contenedores
-
-- Docker + Docker Compose
-
-### Versionamiento
-
-- Github
-
-### Prototipado
-
-- Figma
-
-### Documentación
-
-- Quarto
-- HTML
+| Heurística | Aplicación específica en el sistema |
+|------------|-------------------------------------|
+|Visibilidad del estado del sistema|Indicadores visibles como “Consulta enviada”, “Datos guardados” o “Plan generado” brindan retroalimentación inmediata al usuario.|
+|Concordancia con el mundo real |Uso de términos familiares como “plan diario”, “seguimiento”, “progreso”, en lugar de jergas técnicas.|
+|Control y libertad del usuario |Funciones como “Editar perfil”, “Cancelar”, “Volver al inicio” disponibles en todo momento.|
+|Consistencia y estándares|Botones con estilo uniforme, iconografía coherente, y estructura de navegación repetida entre módulos.|
+|Prevención de errores|Validación en campos del perfil: no se aceptan letras en campos numéricos ni valores negativos.|
+|Reconocimiento en lugar de recuerdo|Menú lateral persistente, etiquetas claras, flujos secuenciales guiados por el sistema.|
+|Flexibilidad y eficiencia de uso |Accesos directos como “Generar plan con IA” y “Registrar peso” están en lugares estratégicos de cada pantalla.|
+|Estética y diseño minimalista|Pantallas limpias, máximo tres colores, abundante espacio en blanco, sin elementos decorativos innecesarios.|
+|Diagnóstico y recuperación de errores|Los errores se presentan con explicaciones simples (“La altura debe ser mayor a 1 m”) y propuestas de corrección.|
+|Ayuda y documentación |Tooltips explicativos para términos como “macros”, “IMC”, “requerimientos calóricos”. Formularios asistidos.|

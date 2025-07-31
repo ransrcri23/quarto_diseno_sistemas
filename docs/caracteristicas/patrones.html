@@ -126,6 +126,18 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Información General</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about/arquitectura.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Arquitectura de Información</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about/figma.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Figma</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -163,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../demos/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Diagramas</span></a>
+ <span class="menu-text">Descripción de flujos</span></a>
   </div>
 </li>
       </ul>
@@ -226,7 +238,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../instalacion/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Dentro del alcance</span></a>
+ <span class="menu-text">Guía de ejecución</span></a>
   </div>
 </li>
       </ul>
@@ -258,15 +270,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#backend" id="toc-backend" class="nav-link active" data-scroll-target="#backend">Backend</a></li>
-  <li><a href="#ai-en-la-aplicación" id="toc-ai-en-la-aplicación" class="nav-link" data-scroll-target="#ai-en-la-aplicación">AI en la aplicación</a></li>
-  <li><a href="#ai-para-desarrollo" id="toc-ai-para-desarrollo" class="nav-link" data-scroll-target="#ai-para-desarrollo">AI para desarrollo</a></li>
-  <li><a href="#base-de-datos" id="toc-base-de-datos" class="nav-link" data-scroll-target="#base-de-datos">Base de datos</a></li>
-  <li><a href="#frontend" id="toc-frontend" class="nav-link" data-scroll-target="#frontend">Frontend</a></li>
-  <li><a href="#contenedores" id="toc-contenedores" class="nav-link" data-scroll-target="#contenedores">Contenedores</a></li>
-  <li><a href="#versionamiento" id="toc-versionamiento" class="nav-link" data-scroll-target="#versionamiento">Versionamiento</a></li>
-  <li><a href="#prototipado" id="toc-prototipado" class="nav-link" data-scroll-target="#prototipado">Prototipado</a></li>
-  <li><a href="#documentación" id="toc-documentación" class="nav-link" data-scroll-target="#documentación">Documentación</a></li>
+  <li><a href="#mvc-model-view-controller---django-mvt" id="toc-mvc-model-view-controller---django-mvt" class="nav-link active" data-scroll-target="#mvc-model-view-controller---django-mvt">MVC (Model-View-Controller) - Django MVT</a></li>
+  <li><a href="#single-responsibility-principle-srp" id="toc-single-responsibility-principle-srp" class="nav-link" data-scroll-target="#single-responsibility-principle-srp">Single Responsibility Principle (SRP)</a></li>
+  <li><a href="#factory-pattern-implícito-en-django" id="toc-factory-pattern-implícito-en-django" class="nav-link" data-scroll-target="#factory-pattern-implícito-en-django">Factory Pattern (Implícito en Django)</a></li>
+  <li><a href="#template-method-pattern" id="toc-template-method-pattern" class="nav-link" data-scroll-target="#template-method-pattern">Template Method Pattern</a></li>
   </ul>
 </nav>
     </div>
@@ -292,61 +299,39 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="backend" class="level3">
-<h3 class="anchored" data-anchor-id="backend">Backend</h3>
+<p><a href="./recursos/Artículo - Patrones de diseño Sanabria Montoya, Sanchéz Rivera.pdf" download="">En este enlace</a> puedes descargar nuestro informe de Patrones de diseño.</p>
+<p>A continuación se describen algunos patrones arquitectónicos utilizados en el desarrollo de Nutri Gemini:</p>
+<section id="mvc-model-view-controller---django-mvt" class="level3">
+<h3 class="anchored" data-anchor-id="mvc-model-view-controller---django-mvt">MVC (Model-View-Controller) - Django MVT</h3>
 <ul>
-<li>Django 5.2.2</li>
-<li>Python</li>
+<li>Models: usuarios/models.py, pacientes/models.py, valoraciones/models.py</li>
+<li>Views: usuarios/views.py, pacientes/views.py, valoraciones/views.py</li>
+<li>Templates: Separación clara entre lógica y presentación</li>
+<li>Beneficio: Lógica de negocio separada de las vistas</li>
 </ul>
 </section>
-<section id="ai-en-la-aplicación" class="level3">
-<h3 class="anchored" data-anchor-id="ai-en-la-aplicación">AI en la aplicación</h3>
+<section id="single-responsibility-principle-srp" class="level3">
+<h3 class="anchored" data-anchor-id="single-responsibility-principle-srp">Single Responsibility Principle (SRP)</h3>
+<p>Este principio fue aplicado como parte de la práctica de identificación de code smells. <a href="./recursos/Practica de Code Smells Sanabria, Sanchez (1).pdf" download="">En este enlace</a> puedes descargar los detalles de esta refactorización.</p>
 <ul>
-<li>Google Gemini AI</li>
+<li>class MacronutrientesCalculator # Solo calcula macronutrientes</li>
+<li>class PlanComidasGenerator # Solo genera planes</li>
+<li>class TablaEquivalenciasGenerator # Solo genera tablas</li>
+<li>class OrquestadorValoracion # Coordina el proceso</li>
 </ul>
 </section>
-<section id="ai-para-desarrollo" class="level3">
-<h3 class="anchored" data-anchor-id="ai-para-desarrollo">AI para desarrollo</h3>
+<section id="factory-pattern-implícito-en-django" class="level3">
+<h3 class="anchored" data-anchor-id="factory-pattern-implícito-en-django">Factory Pattern (Implícito en Django)</h3>
 <ul>
-<li>Warp</li>
+<li>Django ORM actúa como factory para modelos</li>
+<li>Sistema de usuarios con diferentes tipos (TipoUsuario.choices)</li>
 </ul>
 </section>
-<section id="base-de-datos" class="level3">
-<h3 class="anchored" data-anchor-id="base-de-datos">Base de datos</h3>
+<section id="template-method-pattern" class="level3">
+<h3 class="anchored" data-anchor-id="template-method-pattern">Template Method Pattern</h3>
 <ul>
-<li>PostgreSQL en Railway</li>
-</ul>
-</section>
-<section id="frontend" class="level3">
-<h3 class="anchored" data-anchor-id="frontend">Frontend</h3>
-<ul>
-<li>Bootstrap 5</li>
-<li>JavaScript</li>
-</ul>
-</section>
-<section id="contenedores" class="level3">
-<h3 class="anchored" data-anchor-id="contenedores">Contenedores</h3>
-<ul>
-<li>Docker + Docker Compose</li>
-</ul>
-</section>
-<section id="versionamiento" class="level3">
-<h3 class="anchored" data-anchor-id="versionamiento">Versionamiento</h3>
-<ul>
-<li>Github</li>
-</ul>
-</section>
-<section id="prototipado" class="level3">
-<h3 class="anchored" data-anchor-id="prototipado">Prototipado</h3>
-<ul>
-<li>Figma</li>
-</ul>
-</section>
-<section id="documentación" class="level3">
-<h3 class="anchored" data-anchor-id="documentación">Documentación</h3>
-<ul>
-<li>Quarto</li>
-<li>HTML</li>
+<li>Plantilla base base.html define estructura</li>
+<li>Templates específicos implementan secciones concretas</li>
 </ul>
 
 

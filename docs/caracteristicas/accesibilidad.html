@@ -126,6 +126,18 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Información General</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about/arquitectura.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Arquitectura de Información</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about/figma.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Figma</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -163,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../demos/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Diagramas</span></a>
+ <span class="menu-text">Descripción de flujos</span></a>
   </div>
 </li>
       </ul>
@@ -226,7 +238,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../instalacion/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Dentro del alcance</span></a>
+ <span class="menu-text">Guía de ejecución</span></a>
   </div>
 </li>
       </ul>
@@ -258,15 +270,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#backend" id="toc-backend" class="nav-link active" data-scroll-target="#backend">Backend</a></li>
-  <li><a href="#ai-en-la-aplicación" id="toc-ai-en-la-aplicación" class="nav-link" data-scroll-target="#ai-en-la-aplicación">AI en la aplicación</a></li>
-  <li><a href="#ai-para-desarrollo" id="toc-ai-para-desarrollo" class="nav-link" data-scroll-target="#ai-para-desarrollo">AI para desarrollo</a></li>
-  <li><a href="#base-de-datos" id="toc-base-de-datos" class="nav-link" data-scroll-target="#base-de-datos">Base de datos</a></li>
-  <li><a href="#frontend" id="toc-frontend" class="nav-link" data-scroll-target="#frontend">Frontend</a></li>
-  <li><a href="#contenedores" id="toc-contenedores" class="nav-link" data-scroll-target="#contenedores">Contenedores</a></li>
-  <li><a href="#versionamiento" id="toc-versionamiento" class="nav-link" data-scroll-target="#versionamiento">Versionamiento</a></li>
-  <li><a href="#prototipado" id="toc-prototipado" class="nav-link" data-scroll-target="#prototipado">Prototipado</a></li>
-  <li><a href="#documentación" id="toc-documentación" class="nav-link" data-scroll-target="#documentación">Documentación</a></li>
+  <li><a href="#modo-de-alto-contraste" id="toc-modo-de-alto-contraste" class="nav-link active" data-scroll-target="#modo-de-alto-contraste">Modo de alto contraste</a></li>
+  <li><a href="#soporte-para-lectores-de-pantalla" id="toc-soporte-para-lectores-de-pantalla" class="nav-link" data-scroll-target="#soporte-para-lectores-de-pantalla">Soporte para lectores de pantalla</a></li>
   </ul>
 </nav>
     </div>
@@ -292,62 +297,55 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="backend" class="level3">
-<h3 class="anchored" data-anchor-id="backend">Backend</h3>
-<ul>
-<li>Django 5.2.2</li>
-<li>Python</li>
-</ul>
+<p><a href="./recursos/tbd.pdf" download="">En este enlace</a> puedes descargar nuestro informe de Accesibilidad.</p>
+<p>Para asegurar la inclusión de personas con diferentes capacidades, se implementaron criterios de la norma WCAG 2.1, cubriendo los cuatro principios fundamentales: perceptible, operable, comprensible y robusto (W3C, 2018).</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Principio WCAG</th>
+<th>Implementación</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Perceptible</td>
+<td>Contraste de color mínimo 7:1 (AAA) en botones y textos. Uso de etiquetas visibles y jerarquía tipográfica clara. Compatibilidad planificada con lectores de pantalla mediante estructura semántica correcta.</td>
+</tr>
+<tr class="even">
+<td>Operable</td>
+<td>Navegación por teclado posible (enfoque en botones, tabulaciones ordenadas). Botones grandes (≥ 44x44 px) que permiten interacción táctil inclusiva. Secciones reactivas sin bloqueo por tiempo.</td>
+</tr>
+<tr class="odd">
+<td>Comprensible</td>
+<td>Lenguaje claro, neutro y sin tecnicismos innecesarios. Formularios con ayuda contextual, validaciones visibles y mensajes de error con solución sugerida.</td>
+</tr>
+<tr class="even">
+<td>Robusto</td>
+<td>Diseño compatible con tecnologías asistidas (planificación de roles ARIA en desarrollo HTML). Componentes organizados para garantizar estabilidad semántica y facilidad de lectura automática.</td>
+</tr>
+</tbody>
+</table>
+<p>A continuación se describen algunas características de accesibilidad de la aplicación</p>
+<section id="modo-de-alto-contraste" class="level3">
+<h3 class="anchored" data-anchor-id="modo-de-alto-contraste">Modo de alto contraste</h3>
+<p>La aplicación cuenta con un modo de alto contraste que cubre el 100% de las pantallas y que puede ser activado y desactivado en cualquier momento de la sesión.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="./recursos/altocontraste.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<figcaption>Pantalla con alto contraste</figcaption>
+</figure>
+</div>
 </section>
-<section id="ai-en-la-aplicación" class="level3">
-<h3 class="anchored" data-anchor-id="ai-en-la-aplicación">AI en la aplicación</h3>
-<ul>
-<li>Google Gemini AI</li>
-</ul>
-</section>
-<section id="ai-para-desarrollo" class="level3">
-<h3 class="anchored" data-anchor-id="ai-para-desarrollo">AI para desarrollo</h3>
-<ul>
-<li>Warp</li>
-</ul>
-</section>
-<section id="base-de-datos" class="level3">
-<h3 class="anchored" data-anchor-id="base-de-datos">Base de datos</h3>
-<ul>
-<li>PostgreSQL en Railway</li>
-</ul>
-</section>
-<section id="frontend" class="level3">
-<h3 class="anchored" data-anchor-id="frontend">Frontend</h3>
-<ul>
-<li>Bootstrap 5</li>
-<li>JavaScript</li>
-</ul>
-</section>
-<section id="contenedores" class="level3">
-<h3 class="anchored" data-anchor-id="contenedores">Contenedores</h3>
-<ul>
-<li>Docker + Docker Compose</li>
-</ul>
-</section>
-<section id="versionamiento" class="level3">
-<h3 class="anchored" data-anchor-id="versionamiento">Versionamiento</h3>
-<ul>
-<li>Github</li>
-</ul>
-</section>
-<section id="prototipado" class="level3">
-<h3 class="anchored" data-anchor-id="prototipado">Prototipado</h3>
-<ul>
-<li>Figma</li>
-</ul>
-</section>
-<section id="documentación" class="level3">
-<h3 class="anchored" data-anchor-id="documentación">Documentación</h3>
-<ul>
-<li>Quarto</li>
-<li>HTML</li>
-</ul>
+<section id="soporte-para-lectores-de-pantalla" class="level3">
+<h3 class="anchored" data-anchor-id="soporte-para-lectores-de-pantalla">Soporte para lectores de pantalla</h3>
+<p>Los elementos html fueron ajustados para poder ser navegadas con teclado, con un orden de tabulación lógico y con labels que permiten una correcta integración con lectores de pantalla.</p>
+<pre><code>&lt;button type="submit" class="btn btn-primary-custom w-100" aria-label="Calcular macronutrientes usando inteligencia artificial"&gt;
+    &lt;i class="fas fa-brain me-2" aria-hidden="true" aria-hidden="true"&gt;&lt;/i&gt;Calcular Macronutrientes
+&lt;/button&gt;</code></pre>
 
 
 </section>

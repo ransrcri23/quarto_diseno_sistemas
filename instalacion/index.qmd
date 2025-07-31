@@ -2,42 +2,42 @@
 title: "Guía de ejecución"
 ---
 
-Las funcionalidades de este proyecto están orientadas a tres grupos de usuarios: Nutricionistas, Pacientes y Administradores. En esta sección se describen las funcionalidades dentro del alcance para cada tipo de usuario, así como aquellas funcionalidades generales, las cuales son independientes del tipo de sesión.
+A continuación se facilita un paso a paso para la ejecución de la aplicación.
 
-[Visita esta sección](funcionalidades/out.qmd) para ver las funcionalidades fuera del alcance
+## Guía de ejecución
 
-### Funcionalidades Generales
+1. **Clonar y configurar**
+   ```bash
+   git clone https://github.com/ransrcri23/nutri_gemini.git
+   cd nutri_gemini
+   cp example.env .env  # Luego editar .env con tus credenciales
+   ```
 
-- Pantalla de Bienvenida
-- Inicio y Cierre de Sesión
-- Interfaz con alto contraste
-- Compatibilidad con lectores de pantalla
+2. **Configurar variables en .env**
+   - `GOOGLE_API_KEY`: [Obtener desde Google AI Studio](https://makersuite.google.com/app/apikey)
+   - `DATABASE_URL`: Tu URL de PostgreSQL
 
-### Nutricionistas
+3. **Ejecutar con Docker**
+   ```bash
+   docker-compose up --build
+   ```
 
-- Dashboard de Nutricionistas
-- Gestión de Pacientes (Consulta, creación y edición)
-- Gestión de Valoraciones (Consultra, creación y edición)
-- Cálculo de macronutrientes con Inteligencia Artificial
-- Creación de planes nutricionales con Inteligencia Artificial
-- Creación de tablas de equivalencias con Inteligencia Artificial
-- Dashboard de progreso de pacientes
+4. **Acceder a la aplicación**
+   - URL: http://localhost:8000
+   - Admin: `admin@nutricion.com` / `admin123`
 
-### Pacientes
+5. **Detener** (cuando termines)
+   ```bash
+   docker-compose down
+   ```
 
-- Dashboard de Paciente
-- Historial de Valoraciones
-- Detalle de Valoraciones
-- Acceso a métricas nutricionales, recomendaciones, planes alimenticios y tablas de equivalencias
-- Gráficas de progreso
+## Disclaimers
 
-### Administradores
+- **Configuración requerida**: Debes configurar tus propias credenciales en `.env`
+- **API Key**: Necesitas una `GOOGLE_API_KEY` válida para que funcione la IA
+- **Base de datos**: Requiere una instancia PostgreSQL configurada en `DATABASE_URL`
+- **Primera ejecución**: Puede tomar varios minutos descargar dependencias
 
-- Gestión de Pacientes (Consulta, creación, edición y activación/desactivación)
-- Gestión de Nutricionistas (Consulta, creación, edición y activación/desactivación)
-- Gestión de Administradores (Consulta, creación, edición y activación/desactivación)
-- Gestión de Valoraciones (Consultra, creación y edición)
-- Cálculo de macronutrientes con Inteligencia Artificial
-- Creación de planes nutricionales con Inteligencia Artificial
-- Creación de tablas de equivalencias con Inteligencia Artificial
-- Dashboard de progreso de pacientes
+**Nota:** [En este enlace](https://drive.google.com/drive/folders/1IXyiHmwqJEmgfS1ljhErB8-k6-_U0CxS?usp=drive_link) puedes solicitar acceso para descargar el archivo `.env` con el `GOOGLE_API_KEY` y `DATABASE_URL` de los desarrolladores de Nutri Gemini, así como una lista de credenciales para usuarios de prueba.
+
+*La aprobación de acceso a estas credenciales queda a discreción de los colaboradores de este proyecto.*

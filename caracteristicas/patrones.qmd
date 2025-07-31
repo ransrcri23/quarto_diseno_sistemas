@@ -2,39 +2,32 @@
 title: "Patrones Arquitectónicos"
 ---
 
-### Backend
+<a href="./recursos/Artículo - Patrones de diseño Sanabria Montoya, Sanchéz Rivera.pdf" download>En este enlace</a> puedes descargar nuestro informe de Patrones de diseño.
 
-- Django 5.2.2
-- Python
+A continuación se describen algunos patrones arquitectónicos utilizados en el desarrollo de Nutri Gemini:
 
-### AI en la aplicación
-- Google Gemini AI
+### MVC (Model-View-Controller) - Django MVT
 
-### AI para desarrollo
-- Warp
+- Models: usuarios/models.py, pacientes/models.py, valoraciones/models.py
+- Views: usuarios/views.py, pacientes/views.py, valoraciones/views.py
+- Templates: Separación clara entre lógica y presentación
+- Beneficio: Lógica de negocio separada de las vistas
 
-### Base de datos
+### Single Responsibility Principle (SRP)
 
-- PostgreSQL en Railway
+Este principio fue aplicado como parte de la práctica de identificación de code smells. <a href="./recursos/Practica de Code Smells Sanabria, Sanchez (1).pdf" download>En este enlace</a> puedes descargar los detalles de esta refactorización.
 
-### Frontend
+- class MacronutrientesCalculator    # Solo calcula macronutrientes
+- class PlanComidasGenerator         # Solo genera planes
+- class TablaEquivalenciasGenerator  # Solo genera tablas
+- class OrquestadorValoracion        # Coordina el proceso
 
-- Bootstrap 5
-- JavaScript
+### Factory Pattern (Implícito en Django)
 
-### Contenedores
+- Django ORM actúa como factory para modelos
+- Sistema de usuarios con diferentes tipos (TipoUsuario.choices)
 
-- Docker + Docker Compose
+### Template Method Pattern
 
-### Versionamiento
-
-- Github
-
-### Prototipado
-
-- Figma
-
-### Documentación
-
-- Quarto
-- HTML
+- Plantilla base base.html define estructura
+- Templates específicos implementan secciones concretas

@@ -11,7 +11,7 @@ title: "Tecnologías utilizadas"
 - Google Gemini AI
 
 ### AI para desarrollo
-- Warp
+- Warp (Claude 4 Sonnet)
 
 ### Base de datos
 

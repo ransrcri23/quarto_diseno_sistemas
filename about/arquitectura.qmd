@@ -1,0 +1,31 @@
+---
+title: "Arquitectura de Información"
+---
+
+En esta sección se describen algunos elementos del arquitectura de información de Nutri Gemini. Acá puedes descargar el informe completo de <a href="./recursos/Proyecto Arquitectura de Información Sanabria Montoya, Sanchéz Rivera (2).pdf" download>Arquitectura de Información</a>
+
+Para el estudio de la arquitectura de información de la aplicación Nutri Gemini, se llevó a cabo una comparativa con aplicaciones similares en el mercado y se utilizaron factores de comparación relacionados con el nivel de supervisión clínica, integración con Inteligencia Artificial, soporte de distintos idiomas, planes disponibles, accesibilidad y modelos de negocio, con el objetivo de identificar necesidades y por ende oportunidades de negocio. A continuación se puede observar la tabla de análisis de brechas, obtenido como resultado de este análisis
+
+| Dimensión evaluada | Presente en apps actuales | Nivel de desarrollo | Necesidad detectada | Oportunidad de Mejora |
+|--------------------|---------------------------|---------------------|---------------------|-----------------------|
+| Supervisión clínica profesional | Parcial (HealthifyMe) | Bajo | Alta |✅✅✅|
+| Personalización médica avanzada| No | Muy Bajo | Muy Alta |✅✅✅✅ |
+| Trazabilidad longitudinal| Parcial (MyFitnessPal) | Bajo | Alta |✅✅✅|
+| Accesibilidad Universal | Parcial (HealthifyMe) | Bajo | Alta |✅✅✅|
+| Panel Profesional | No | Nulo | Muy Alta |✅✅✅✅ |
+| Integración Ética con AI | Parcial (todas) | Muy Bajo | Muy Alta |✅✅✅✅ |
+
+**Nota:** ✅ representa el nivel de oportunidad estratégica que tiene la plataforma propuesta
+para cubrir esa brecha
+
+Adicionalmente, se realizaron encuestas y entrevistas cualitativas a un grupo de nutricionistas, con el fin de evaluar sus intereses y necesidades con respecto a soluciones técnologicas para la práctica nutricional. Entre los principales hallazgos, se encuentran los siguientes:
+
+- Las aplicaciones populares son vistas como insuficientes para el trabajo clínico, ya que no permiten trazabilidad, validación profesional ni adaptación médica.
+- El cálculo manual de planes nutricionales es visto como ineficiente, especialmente en modalidad remota.
+- La mayoría de los nutricionistas utiliza ChatGPT o IA de forma informal, pero no lo integra formalmente en su flujo de trabajo.
+- La necesidad de mantener control clínico, evitar errores y cumplir con estándares éticos se identifica como prioridad.
+- El interés por una herramienta “asistente” que no reemplace al profesional, sino que lo potencie, fue unánime.
+
+A continuación se observa el diagrama de organización y estructura de navegación propuesto para Nutri Gemini:
+
+![Diagrama de organización y estructura de navegación](./recursos/arq.png){fig-align="left"}

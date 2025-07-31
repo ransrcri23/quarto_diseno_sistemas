@@ -5,5 +5,3 @@ title: "Información General"
 ![Logo](./recursos/logo.png){fig-align="left" width=50%}
 
 El objetivo principal de Nutri Gemini es convertirse en un asistente nutricional con Inteligencia Artificial, que le permita a los profesionales en nutrición automatizar procesos repetitivos y mantener una gestión completa de sus pacientes y registro de sus valoraciones. Por otra parte, también pretende ayudarle a los pacientes a acceder de manera sencilla y agradable a los registro de sus valoraciones, planes nutricionales y gráficas de progreso.
-
-[Visita esta sección](../funcionalidades/index.qmd) para conocer la lista de funcionalidades de la aplicación

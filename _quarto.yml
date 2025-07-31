@@ -16,6 +16,8 @@ website:
       - section: "Sobre el proyecto"
         contents:
           - about/index.qmd
+          - about/arquitectura.qmd
+          - about/figma.qmd
       - section: "Funcionalidades"
         contents:
           - funcionalidades/index.qmd

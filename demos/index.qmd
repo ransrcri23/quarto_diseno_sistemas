@@ -1,23 +1,107 @@
 ---
-title: "Diagramas"
+title: "Descripción de flujos"
 ---
 
-En esta sección se describen los flujos principales de la aplicación.
+En esta sección se describen los flujos principales de la aplicación. Para esta documentación, no se incluyeron flujos alternativos ni múltiples flujos por tipo de usuario, sino que se detallaron los flujos desde el punto de vista del usuario para el cuál es más relevante.
 
 ### Iniciar Sesión (Cualquier usuario)
 
+| Usuario | Sistema | Base de Datos |
+|--------------|--------------|--------------|
+| El usuario presiona Ir al Login, desde la pantalla de bienvenida | | |
+|  | El sistema retorna el formulario de Inicio de Sesión | |
+| El usuario ingresa su usuario y contraseña  | | |
+| | El sistema consulta la base de datos para validar las credenciales | |
+| | | La base de datos retorna la validación|
+| | El sistema dirige al dashboard de inicio según el tipo de usuario| |
+| | Caso de uso finaliza| |
+
 ### Activar modo de alto contraste (Cualquier usuario)
+
+| Usuario | Sistema |
+|--------------|--------------|
+| El usuario presiona el botón 'Alto Contraste' | |
+| | El sistema actualiza todas las pantallas al modo de Alto Contraste |
+| | Caso de uso finaliza |
 
 ### Desactivar/Activar un usuario (Usuario de aministrador)
 
+| Usuario | Sistema | Base de Datos |
+|--------------|--------------|--------------|
+| El administrador ingresa al dashboard de usuarios | | |
+|  | El sistema retorna la lista de usuarios y opciones de búsqueda | |
+| El administrador realiza su búsqueda  | | |
+| | El sistema filtra de acuerdo a los parámetros ingresados por el administrador | |
+|El administrador presiona el botón de activar o desactivar un usuario | | |
+| | El sistema actualiza la base de datos con el cambio realizado| |
+| | |La base de datos actualiza el campo de estado del usuario |
+| |El sistema acutaliza el estado del usuario en la interfaz gráfica | |
+| |Caso de uso finaliza | |
+
 ### Crear un nutricionista (Usuario de administrador)
+
+| Usuario | Sistema | Base de Datos |
+|--------------|--------------|--------------|
+| El administrador ingresa a Crear Nutricionista | | |
+|  | El sistema retorna el formulario de creacion de nutricionistas | |
+| El administrador completa los campos requeridos  | | |
+| | El sistema auto genera una contraseña e inserta los registros en la base de datos | |
+| | | La base de datos guarda el registro del nuevo nutricionista|
+| | El sistema retorna un mensaje de éxito y provee la contraseña del usuario| |
+| | Caso de uso finaliza| |
 
 ### Crear un paciente (Usuario de nutricionista o administrador)
 
+| Usuario | Sistema | Base de Datos |
+|--------------|--------------|--------------|
+| El nutricionista o administrador ingresa a Crear Paciente | | |
+|  | El sistema retorna el formulario de creacion de pacientes | |
+| El nutricionista o administrador completa los campos requeridos  | | |
+| | El sistema auto genera una contraseña e inserta los registros en la base de datos | |
+| | | La base de datos guarda el registro del nuevo paciente|
+| | El sistema retorna un mensaje de éxito y provee la contraseña del usuario| |
+| | Caso de uso finaliza| |
+
 ### Crear una valoración (Usuario de nutricionista o administrador)
+
+| Usuario  | Sistema | Gemini API | Base de Datos |
+|--------------|--------------|--------------|-------------|
+| El nutricionista o administrador ingresa a Crear Valoración | | | |
+| | El sistema retorna el formulario de creación de una valoración | | |
+| El nutricionista o administrador completa los campos requeridos |  | | |
+|  | El sistema se conecta con el API de Gemini para obtener los macronutrientes, plan alimenticio, recomendaciones y tabla de equivalencia | | |
+|  |  | Gemini retorna los valores solicitados | |
+|  | El sistema inserta los registros de la valoración a la base de datos |  | |
+|  | |  | La base de datos crea un nuevo registro para la valoración|
+|  |El sistema muestra el detalle de la valoración |  | |
+|  |Caso de uso finaliza |  | |
 
 ### Ver Historial de Valoraciones (Usuario de paciente)
 
+| Usuario | Sistema | Base de Datos |
+|--------------|--------------|--------------|
+| El paciente ingresa a Ver mis Valoraciones | | |
+| | El sistema solicita los registros a la base de datos | |
+| |  |La base de datos devuelve la lista de valoraciones |
+|  | El sistema retorna la lista de valoraciones del paciente | |
+|   |Caso de uso finaliza | |
+
 ### Ver Detalle de Valoracion con recomendaciones, plan nutricional y tabla de equivalencias (Usuario de paciente)
 
+| Usuario | Sistema | Base de Datos |
+|--------------|--------------|--------------|
+| Dentro de Mis Valoraciones, el paciente presiona Ver Detalles | | |
+| | El sistema solicita los registros a la base de datos | |
+| |  |La base de datos devuelve los detalles de la valoración|
+|  | El sistema retorna los detalles de la valoracion seleccionada | |
+|   |Caso de uso finaliza | |
+
 ### Ver gráficas de progreso (Usuario de paciente)
+
+| Usuario | Sistema | Base de Datos |
+|--------------|--------------|--------------|
+| El usuario presiona Mi Progreso | | |
+|  | El sistema solicita los registros de peso, grasa y músculo de todas las valoraciones asociadas al paciente | |
+|  |  |La base de datos devuelve los valores |
+|   |El sistema devuelve los gráficos de progreso | |
+|   |Caso de uso finaliza | |

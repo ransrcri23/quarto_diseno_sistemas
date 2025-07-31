@@ -1,0 +1,54 @@
+---
+title: "Figma"
+---
+
+En esta sección se describen algunos elementos de la etápa de prototipado del proyecto. Acá puedes descargar el informe completo de <a href="./recursos/Proyecto Figma Prototipo de Interfaz Sanabria Montoya, Sanchéz Rivera (1).pdf" download>Prototipo de Interfaz en Figma</a>
+
+Para el desarrollo de Nutri Gemini se tomaron en cuenta los siguientes principios de diseño:
+
+| Principio | Aplicación Práctica |
+|-----------|---------------------|
+| Supervisión clínica profesional | El sistema fue concebido a partir del análisis de necesidades reales, protopersonas y encuestas validadas. |
+| Accesibilidad universal  | Cumple WCAG 2.1: navegación por teclado, contraste adecuado, etiquetas semánticas, texto claro y escalable |
+| Escalabilidad  | Estructura modular lista para incorporar futuras funciones como recetas, ejercicios, wearables, etc. |
+| Ética y privacidad  | Autenticación segura, roles diferenciados, validación humana de IA, registro clínico documentado |
+| Usabilidad y experiencia fluida  | Interacción simplificada, menús organizados, flujos predecibles y respuestas rápidas en menos de 10 segundos. |
+
+A partir del análisis competitivo de herramientas como MyFitnessPal, HealthifyMe, Yazio y Nutrify, se identificaron brechas críticas. La propuesta del Asistente Nutricional AI destaca por:
+
+- Integrar IA con validación profesional
+- Permitir trazabilidad clínica y seguimiento visual
+- Ofrecer un diseño accesible, bilingüe y clínicamente ético
+- Adaptarse a condiciones médicas específicas y no solo metas estéticas
+- Brindar un panel profesional diseñado para práctica remota
+
+A continuación se puede observar la tabla de navegación, según el rol:
+
+| Pantalla | Acciones Permitidas | Usuarios |
+|----------|---------------------|----------|
+|Bienvenida|Ingresar y ver información general de la aplicación|Todos|
+|Inicio de sesión |Validar usuario. Ingresar según rol|Todos|
+|Configuración de perfil|Ingresar datos clínicos y preferencias. Guardar|Nutricionista|
+|Consulta textual |Escribir pregunta. Recibir respuesta IA|Paciente|
+|Plan diario personalizado |Visualizar comidas. Ver macros por bloque|Paciente|
+|Seguimiento |Registrar peso, síntomas, hábitos. Ver gráficos|Paciente|
+|Panel profesional |Seleccionar paciente. Validar y ajustar planes|Nutricionista|
+|Panel administrativo |Agregar/modificar usuarios. Consultar métricas|Administrador|
+
+### Ejemplos de Prototipo
+
+[En este enlace](https://www.figma.com/design/BO5LwcIbHncpK3rlQZcYct/Proyecto-de-figma---Nutri-Gemini?node-id=0-1&p=f&t=iYIrDJWg1pTe37As-0) puedes visitar el prototipo completo en Figma.
+
+En las siguientes imágenes se puede apreciar algunos de los prototipos creados para la aplicación. En este enlace puedes visitar el prototipo completo en Figma.
+
+- **Pantalla de generación de plan nutricional**
+
+![Pantalla de generación de plan nutricional](./recursos/figma1.png){fig-align="left"}
+
+- **Pantalla de gráficas de progreso**
+
+![Pantalla de gráficas de progreso](./recursos/figma2.png){fig-align="left"}
+
+- **Dashboard de inicio de nutricionistas**
+
+![Dashboard de inicio de nutricionistas](./recursos/figma3.png){fig-align="left"}

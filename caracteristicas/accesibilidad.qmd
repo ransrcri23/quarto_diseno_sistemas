@@ -2,39 +2,31 @@
 title: "Accesibilidad"
 ---
 
-### Backend
+<a href="./recursos/tbd.pdf" download>En este enlace</a> puedes descargar nuestro informe de Accesibilidad.
 
-- Django 5.2.2
-- Python
+Para asegurar la inclusión de personas con diferentes capacidades, se implementaron criterios de la norma WCAG 2.1, cubriendo los cuatro principios fundamentales: perceptible, operable, comprensible y robusto (W3C, 2018). 
 
-### AI en la aplicación
-- Google Gemini AI
+| Principio WCAG | Implementación |
+|----------------|----------------|
+|Perceptible|Contraste de color mínimo 7:1 (AAA) en botones y textos. Uso de etiquetas visibles y jerarquía tipográfica clara. Compatibilidad planificada con lectores de pantalla mediante estructura semántica correcta.|
+|Operable|Navegación por teclado posible (enfoque en botones, tabulaciones ordenadas). Botones grandes (≥ 44x44 px) que permiten interacción táctil inclusiva. Secciones reactivas sin bloqueo por tiempo.|
+|Comprensible|Lenguaje claro, neutro y sin tecnicismos innecesarios. Formularios con ayuda contextual, validaciones visibles y mensajes de error con solución sugerida. |
+|Robusto|Diseño compatible con tecnologías asistidas (planificación de roles ARIA en desarrollo HTML). Componentes organizados para garantizar estabilidad semántica y facilidad de lectura automática.  |
 
-### AI para desarrollo
-- Warp
+A continuación se describen algunas características de accesibilidad de la aplicación
 
-### Base de datos
+### Modo de alto contraste
 
-- PostgreSQL en Railway
+La aplicación cuenta con un modo de alto contraste que cubre el 100% de las pantallas y que puede ser activado y desactivado en cualquier momento de la sesión.
 
-### Frontend
+![Pantalla con alto contraste](./recursos/altocontraste.png){fig-align="left" width=70%}
 
-- Bootstrap 5
-- JavaScript
+### Soporte para lectores de pantalla
 
-### Contenedores
+Los elementos html fueron ajustados para poder ser navegadas con teclado, con un orden de tabulación lógico y con labels que permiten una correcta integración con lectores de pantalla.
 
-- Docker + Docker Compose
-
-### Versionamiento
-
-- Github
-
-### Prototipado
-
-- Figma
-
-### Documentación
-
-- Quarto
-- HTML
+```
+<button type="submit" class="btn btn-primary-custom w-100" aria-label="Calcular macronutrientes usando inteligencia artificial">
+    <i class="fas fa-brain me-2" aria-hidden="true" aria-hidden="true"></i>Calcular Macronutrientes
+</button>
+```
