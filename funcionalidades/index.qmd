@@ -4,7 +4,7 @@ title: "Dentro del alcance"
 
 Las funcionalidades de este proyecto están orientadas a tres grupos de usuarios: Nutricionistas, Pacientes y Administradores. En esta sección se describen las funcionalidades dentro del alcance para cada tipo de usuario, así como aquellas funcionalidades generales, las cuales son independientes del tipo de sesión.
 
-[Visita esta sección](funcionalidades/out.qmd) para ver las funcionalidades fuera del alcance
+[Visita esta sección](out.qmd) para ver las funcionalidades fuera del alcance
 
 ### Funcionalidades Generales
 

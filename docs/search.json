@@ -1,364 +1,5 @@
 [
   {
-    "objectID": "index.html#sobre-este-sitio",
-    "href": "index.html#sobre-este-sitio",
-    "title": "Proyecto de Diseño de Sistemas de Software",
-    "section": "Sobre este sitio",
-    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
-    "crumbs": [
-      "Proyecto de Diseño de Sistemas de Software"
-    ]
-  },
-  {
-    "objectID": "index.html#contenido",
-    "href": "index.html#contenido",
-    "title": "Proyecto de Diseño de Sistemas de Software",
-    "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio y etapas tempranas del proceso de diseño de la aplicación Nutri Gemini.\n\nInformación General\nArquitectura de la Información\nFigma\n\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\nDentro del alcance\nFuera del alcance\n\n\n\nFlujos de la aplicación\nEn esta sección podrás observar algunos de los principales flujos del sistema Nutri Gemini.\n\nDescripción de flujos\nDemos\n\n\n\nTech Stack\nEn esta sección podrás conocer las tecnologías utilizadas para su desarrollo.\n\nTecnologías utilizadas\n\n\n\nCaracterísticas\nEn esta sección podrás conocer características de la aplicación relacionadas con Accesibilidad, Usabilidad y Patrones de diseño.\n\nAccesibilidad\nUsabilidad\nPatrones Arquitectónicos\n\n\n\nInstalación\nEn esta sección podrás encontrar un paso a paso para la ejecución de la aplicación.\n\nGuía de ejecución\n\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto\n\nExperiencias y hallazgos del equipo",
-    "crumbs": [
-      "Proyecto de Diseño de Sistemas de Software"
-    ]
-  },
-  {
-    "objectID": "index.html#enlaces",
-    "href": "index.html#enlaces",
-    "title": "Proyecto de Diseño de Sistemas de Software",
-    "section": "Enlaces",
-    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación\nAcá podrás descargar la presentación del proyecto: HTML (Mejor calidad) | PDF",
-    "crumbs": [
-      "Proyecto de Diseño de Sistemas de Software"
-    ]
-  },
-  {
-    "objectID": "accesibilidad/index.html#sobre-este-sitio",
-    "href": "accesibilidad/index.html#sobre-este-sitio",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Sobre este sitio",
-    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
-    "crumbs": [
-      "Accesibilidad",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "accesibilidad/index.html#contenido",
-    "href": "accesibilidad/index.html#contenido",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
-    "crumbs": [
-      "Accesibilidad",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "accesibilidad/index.html#enlaces",
-    "href": "accesibilidad/index.html#enlaces",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Enlaces",
-    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
-    "crumbs": [
-      "Accesibilidad",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "usabilidad/index.html#sobre-este-sitio",
-    "href": "usabilidad/index.html#sobre-este-sitio",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Sobre este sitio",
-    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
-    "crumbs": [
-      "Usabilidad",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "usabilidad/index.html#contenido",
-    "href": "usabilidad/index.html#contenido",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
-    "crumbs": [
-      "Usabilidad",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "usabilidad/index.html#enlaces",
-    "href": "usabilidad/index.html#enlaces",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Enlaces",
-    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
-    "crumbs": [
-      "Usabilidad",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "hallazgos/index.html#sobre-este-sitio",
-    "href": "hallazgos/index.html#sobre-este-sitio",
-    "title": "Experiencias y hallazgos del equipo",
-    "section": "Sobre este sitio",
-    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
-    "crumbs": [
-      "Hallazgos",
-      "Experiencias y hallazgos del equipo"
-    ]
-  },
-  {
-    "objectID": "hallazgos/index.html#contenido",
-    "href": "hallazgos/index.html#contenido",
-    "title": "Experiencias y hallazgos del equipo",
-    "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
-    "crumbs": [
-      "Hallazgos",
-      "Experiencias y hallazgos del equipo"
-    ]
-  },
-  {
-    "objectID": "hallazgos/index.html#enlaces",
-    "href": "hallazgos/index.html#enlaces",
-    "title": "Experiencias y hallazgos del equipo",
-    "section": "Enlaces",
-    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
-    "crumbs": [
-      "Hallazgos",
-      "Experiencias y hallazgos del equipo"
-    ]
-  },
-  {
-    "objectID": "demos/index.html#sobre-este-sitio",
-    "href": "demos/index.html#sobre-este-sitio",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Sobre este sitio",
-    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
-    "crumbs": [
-      "Demos",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "demos/index.html#contenido",
-    "href": "demos/index.html#contenido",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
-    "crumbs": [
-      "Demos",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "demos/index.html#enlaces",
-    "href": "demos/index.html#enlaces",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Enlaces",
-    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
-    "crumbs": [
-      "Demos",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "arq/index.html#sobre-este-sitio",
-    "href": "arq/index.html#sobre-este-sitio",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Sobre este sitio",
-    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
-    "crumbs": [
-      "Arquitectura y Tech Stack",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "arq/index.html#contenido",
-    "href": "arq/index.html#contenido",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
-    "crumbs": [
-      "Arquitectura y Tech Stack",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "arq/index.html#enlaces",
-    "href": "arq/index.html#enlaces",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Enlaces",
-    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
-    "crumbs": [
-      "Arquitectura y Tech Stack",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "funcionalidades/index.html#sobre-este-sitio",
-    "href": "funcionalidades/index.html#sobre-este-sitio",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Sobre este sitio",
-    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
-    "crumbs": [
-      "Funcionalidades",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "funcionalidades/index.html#contenido",
-    "href": "funcionalidades/index.html#contenido",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
-    "crumbs": [
-      "Funcionalidades",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "funcionalidades/index.html#enlaces",
-    "href": "funcionalidades/index.html#enlaces",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Enlaces",
-    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
-    "crumbs": [
-      "Funcionalidades",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "patrones/index.html#sobre-este-sitio",
-    "href": "patrones/index.html#sobre-este-sitio",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Sobre este sitio",
-    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
-    "crumbs": [
-      "Patrones arquitectónicos",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "patrones/index.html#contenido",
-    "href": "patrones/index.html#contenido",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
-    "crumbs": [
-      "Patrones arquitectónicos",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "patrones/index.html#enlaces",
-    "href": "patrones/index.html#enlaces",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Enlaces",
-    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
-    "crumbs": [
-      "Patrones arquitectónicos",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "about/index.html#sobre-este-sitio",
-    "href": "about/index.html#sobre-este-sitio",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Sobre este sitio",
-    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
-    "crumbs": [
-      "Sobre el proyecto",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "about/index.html#contenido",
-    "href": "about/index.html#contenido",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio de la aplicación Nutri Gemini.\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\n\nDemos\nEn esta sección podrás observar algunos demos de la funcionalidad del sistema Nutri Gemini.\n\n\nArquitectura y Tech Stack\nEn esta sección para conocer la arquitectura de la solución y las tecnologías utilizadas para su desarrollo.\n\n\nPatrones Arquitectónicos\nEn esta sección podrás obtener información sobre los partrones arquitectónicos utilizados para el desarrollo de este proyecto.\n\n\nUsabilidad\nEn esta sección podrás conocer las características de usabilidad de la aplicación.\n\n\nAccesibilidad\nEn esta sección podrás conocer las características de accesibilidad de la aplicación.\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto",
-    "crumbs": [
-      "Sobre el proyecto",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "about/index.html#enlaces",
-    "href": "about/index.html#enlaces",
-    "title": "Proyecto de Diseño de Sistemas de Software - PSWE-04",
-    "section": "Enlaces",
-    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación",
-    "crumbs": [
-      "Sobre el proyecto",
-      "Proyecto de Diseño de Sistemas de Software - PSWE-04"
-    ]
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "Información General",
-    "section": "",
-    "text": "Logo\n\n\nEl objetivo principal de Nutri Gemini es convertirse en un asistente nutricional con Inteligencia Artificial, que le permita a los profesionales en nutrición automatizar procesos repetitivos y mantener una gestión completa de sus pacientes y registro de sus valoraciones. Por otra parte, también pretende ayudarle a los pacientes a acceder de manera sencilla y agradable a los registro de sus valoraciones, planes nutricionales y gráficas de progreso.",
-    "crumbs": [
-      "Sobre el proyecto",
-      "Información General"
-    ]
-  },
-  {
-    "objectID": "funcionalidades/index.html",
-    "href": "funcionalidades/index.html",
-    "title": "Dentro del alcance",
-    "section": "",
-    "text": "Las funcionalidades de este proyecto están orientadas a tres grupos de usuarios: Nutricionistas, Pacientes y Administradores. En esta sección se describen las funcionalidades dentro del alcance para cada tipo de usuario, así como aquellas funcionalidades generales, las cuales son independientes del tipo de sesión.\nVisita esta sección para ver las funcionalidades fuera del alcance\n\nFuncionalidades Generales\n\nPantalla de Bienvenida\nInicio y Cierre de Sesión\nInterfaz con alto contraste\nCompatibilidad con lectores de pantalla\n\n\n\nNutricionistas\n\nDashboard de Nutricionistas\nGestión de Pacientes (Consulta, creación y edición)\nGestión de Valoraciones (Consultra, creación y edición)\nCálculo de macronutrientes con Inteligencia Artificial\nCreación de planes nutricionales con Inteligencia Artificial\nCreación de tablas de equivalencias con Inteligencia Artificial\nDashboard de progreso de pacientes\n\n\n\nPacientes\n\nDashboard de Paciente\nHistorial de Valoraciones\nDetalle de Valoraciones\nAcceso a métricas nutricionales, recomendaciones, planes alimenticios y tablas de equivalencias\nGráficas de progreso\n\n\n\nAdministradores\n\nGestión de Pacientes (Consulta, creación, edición y activación/desactivación)\nGestión de Nutricionistas (Consulta, creación, edición y activación/desactivación)\nGestión de Administradores (Consulta, creación, edición y activación/desactivación)\nGestión de Valoraciones (Consultra, creación y edición)\nCálculo de macronutrientes con Inteligencia Artificial\nCreación de planes nutricionales con Inteligencia Artificial\nCreación de tablas de equivalencias con Inteligencia Artificial\nDashboard de progreso de pacientes",
-    "crumbs": [
-      "Funcionalidades",
-      "Dentro del alcance"
-    ]
-  },
-  {
-    "objectID": "funcionalidades/out.html",
-    "href": "funcionalidades/out.html",
-    "title": "Fuera del alcance",
-    "section": "",
-    "text": "La siguiente lista contiene funcionalidades deseadas pero que no fueron incluídas en esta versión, principalmente por cuestiones de tiempo y complejidad.\n\nFuncionalidades Generales\n\nReset de credenciales\nDoble autenticación\nAletras por correo electrónico\nCompatibilidad con lectores de pantalla\n\n\n\nNutricionistas\n\nMódulo para agendar citas a través de la aplicación\nConsulta de agenda\nChat con la Inteligencia Artificial\n\n\n\nPacientes\n\nChat con la Inteligencia Artificial\nReserva de citas a través de la aplicación\nMódulo para contactar al nutricionista\n\n\n\nAdministradores\n\nSistema de tiquetes",
-    "crumbs": [
-      "Funcionalidades",
-      "Fuera del alcance"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Flujos de la aplicación",
-    "section": "",
-    "text": "En esta sección se describen los flujos principales de la aplicación.\n\nIniciar Sesión (Cualquier usuario)\n\n\nActivar modo de alto contraste (Cualquier usuario)\n\n\nDesactivar/Activar un usuario (Usuario de aministrador)\n\n\nCrear un nutricionista (Usuario de administrador)\n\n\nCrear un paciente (Usuario de nutricionista o administrador)\n\n\nCrear una valoración (Usuario de nutricionista o administrador)\n\n\nVer Historial de Valoraciones (Usuario de paciente)\n\n\nVer Detalle de Valoracion con recomendaciones, plan nutricional y tabla de equivalencias (Usuario de paciente)\n\n\nVer gráficas de progreso (Usuario de paciente)",
-    "crumbs": [
-      "Flujos de la aplicación"
-    ]
-  },
-  {
-    "objectID": "arq/index.html",
-    "href": "arq/index.html",
-    "title": "Tecnologías utilizadas",
-    "section": "",
-    "text": "Backend\n\nDjango 5.2.2\nPython\n\n\n\nAI en la aplicación\n\nGoogle Gemini AI\n\n\n\nAI para desarrollo\n\nWarp (Claude 4 Sonnet)\n\n\n\nBase de datos\n\nPostgreSQL en Railway\n\n\n\nFrontend\n\nBootstrap 5\nJavaScript\n\n\n\nContenedores\n\nDocker + Docker Compose\n\n\n\nVersionamiento\n\nGithub\n\n\n\nPrototipado\n\nFigma\n\n\n\nDocumentación\n\nQuarto\nHTML",
-    "crumbs": [
-      "Tech Stack",
-      "Tecnologías utilizadas"
-    ]
-  },
-  {
-    "objectID": "demos/index.html",
-    "href": "demos/index.html",
-    "title": "Descripción de flujos",
-    "section": "",
-    "text": "En esta sección se describen los flujos principales de la aplicación. Para esta documentación, no se incluyeron flujos alternativos ni múltiples flujos por tipo de usuario, sino que se detallaron los flujos desde el punto de vista del usuario para el cuál es más relevante.\n\nIniciar Sesión (Cualquier usuario)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl usuario presiona Ir al Login, desde la pantalla de bienvenida\n\n\n\n\n\nEl sistema retorna el formulario de Inicio de Sesión\n\n\n\nEl usuario ingresa su usuario y contraseña\n\n\n\n\n\nEl sistema consulta la base de datos para validar las credenciales\n\n\n\n\n\nLa base de datos retorna la validación\n\n\n\nEl sistema dirige al dashboard de inicio según el tipo de usuario\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nActivar modo de alto contraste (Cualquier usuario)\n\n\n\nUsuario\nSistema\n\n\n\n\nEl usuario presiona el botón ‘Alto Contraste’\n\n\n\n\nEl sistema actualiza todas las pantallas al modo de Alto Contraste\n\n\n\nCaso de uso finaliza\n\n\n\n\n\nDesactivar/Activar un usuario (Usuario de aministrador)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl administrador ingresa al dashboard de usuarios\n\n\n\n\n\nEl sistema retorna la lista de usuarios y opciones de búsqueda\n\n\n\nEl administrador realiza su búsqueda\n\n\n\n\n\nEl sistema filtra de acuerdo a los parámetros ingresados por el administrador\n\n\n\nEl administrador presiona el botón de activar o desactivar un usuario\n\n\n\n\n\nEl sistema actualiza la base de datos con el cambio realizado\n\n\n\n\n\nLa base de datos actualiza el campo de estado del usuario\n\n\n\nEl sistema acutaliza el estado del usuario en la interfaz gráfica\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nCrear un nutricionista (Usuario de administrador)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl administrador ingresa a Crear Nutricionista\n\n\n\n\n\nEl sistema retorna el formulario de creacion de nutricionistas\n\n\n\nEl administrador completa los campos requeridos\n\n\n\n\n\nEl sistema auto genera una contraseña e inserta los registros en la base de datos\n\n\n\n\n\nLa base de datos guarda el registro del nuevo nutricionista\n\n\n\nEl sistema retorna un mensaje de éxito y provee la contraseña del usuario\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nCrear un paciente (Usuario de nutricionista o administrador)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl nutricionista o administrador ingresa a Crear Paciente\n\n\n\n\n\nEl sistema retorna el formulario de creacion de pacientes\n\n\n\nEl nutricionista o administrador completa los campos requeridos\n\n\n\n\n\nEl sistema auto genera una contraseña e inserta los registros en la base de datos\n\n\n\n\n\nLa base de datos guarda el registro del nuevo paciente\n\n\n\nEl sistema retorna un mensaje de éxito y provee la contraseña del usuario\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nCrear una valoración (Usuario de nutricionista o administrador)\n\n\n\n\n\n\n\n\n\nUsuario\nSistema\nGemini API\nBase de Datos\n\n\n\n\nEl nutricionista o administrador ingresa a Crear Valoración\n\n\n\n\n\n\nEl sistema retorna el formulario de creación de una valoración\n\n\n\n\nEl nutricionista o administrador completa los campos requeridos\n\n\n\n\n\n\nEl sistema se conecta con el API de Gemini para obtener los macronutrientes, plan alimenticio, recomendaciones y tabla de equivalencia\n\n\n\n\n\n\nGemini retorna los valores solicitados\n\n\n\n\nEl sistema inserta los registros de la valoración a la base de datos\n\n\n\n\n\n\n\nLa base de datos crea un nuevo registro para la valoración\n\n\n\nEl sistema muestra el detalle de la valoración\n\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\n\nVer Historial de Valoraciones (Usuario de paciente)\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl paciente ingresa a Ver mis Valoraciones\n\n\n\n\n\nEl sistema solicita los registros a la base de datos\n\n\n\n\n\nLa base de datos devuelve la lista de valoraciones\n\n\n\nEl sistema retorna la lista de valoraciones del paciente\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nVer Detalle de Valoracion con recomendaciones, plan nutricional y tabla de equivalencias (Usuario de paciente)\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nDentro de Mis Valoraciones, el paciente presiona Ver Detalles\n\n\n\n\n\nEl sistema solicita los registros a la base de datos\n\n\n\n\n\nLa base de datos devuelve los detalles de la valoración\n\n\n\nEl sistema retorna los detalles de la valoracion seleccionada\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nVer gráficas de progreso (Usuario de paciente)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl usuario presiona Mi Progreso\n\n\n\n\n\nEl sistema solicita los registros de peso, grasa y músculo de todas las valoraciones asociadas al paciente\n\n\n\n\n\nLa base de datos devuelve los valores\n\n\n\nEl sistema devuelve los gráficos de progreso\n\n\n\n\nCaso de uso finaliza",
-    "crumbs": [
-      "Flujos de la aplicación",
-      "Descripción de flujos"
-    ]
-  },
-  {
     "objectID": "instalacion/index.html",
     "href": "instalacion/index.html",
     "title": "Guía de ejecución",
@@ -367,61 +8,6 @@
     "crumbs": [
       "Instalación",
       "Guía de ejecución"
-    ]
-  },
-  {
-    "objectID": "caracteristicas/patrones.html",
-    "href": "caracteristicas/patrones.html",
-    "title": "Patrones Arquitectónicos",
-    "section": "",
-    "text": "En este enlace puedes descargar nuestro informe de Patrones de diseño.\nA continuación se describen algunos patrones arquitectónicos utilizados en el desarrollo de Nutri Gemini:\n\nMVC (Model-View-Controller) - Django MVT\n\nModels: usuarios/models.py, pacientes/models.py, valoraciones/models.py\nViews: usuarios/views.py, pacientes/views.py, valoraciones/views.py\nTemplates: Separación clara entre lógica y presentación\nBeneficio: Lógica de negocio separada de las vistas\n\n\n\nSingle Responsibility Principle (SRP)\nEste principio fue aplicado como parte de la práctica de identificación de code smells. En este enlace puedes descargar los detalles de esta refactorización.\n\nclass MacronutrientesCalculator # Solo calcula macronutrientes\nclass PlanComidasGenerator # Solo genera planes\nclass TablaEquivalenciasGenerator # Solo genera tablas\nclass OrquestadorValoracion # Coordina el proceso\n\n\n\nFactory Pattern (Implícito en Django)\n\nDjango ORM actúa como factory para modelos\nSistema de usuarios con diferentes tipos (TipoUsuario.choices)\n\n\n\nTemplate Method Pattern\n\nPlantilla base base.html define estructura\nTemplates específicos implementan secciones concretas",
-    "crumbs": [
-      "Caracteristicas",
-      "Patrones Arquitectónicos"
-    ]
-  },
-  {
-    "objectID": "caracteristicas/accesibilidad.html",
-    "href": "caracteristicas/accesibilidad.html",
-    "title": "Accesibilidad",
-    "section": "",
-    "text": "En este enlace puedes descargar nuestro informe de Accesibilidad.\nPara asegurar la inclusión de personas con diferentes capacidades, se implementaron criterios de la norma WCAG 2.1, cubriendo los cuatro principios fundamentales: perceptible, operable, comprensible y robusto (W3C, 2018).\n\n\n\n\n\n\n\nPrincipio WCAG\nImplementación\n\n\n\n\nPerceptible\nContraste de color mínimo 7:1 (AAA) en botones y textos. Uso de etiquetas visibles y jerarquía tipográfica clara. Compatibilidad planificada con lectores de pantalla mediante estructura semántica correcta.\n\n\nOperable\nNavegación por teclado posible (enfoque en botones, tabulaciones ordenadas). Botones grandes (≥ 44x44 px) que permiten interacción táctil inclusiva. Secciones reactivas sin bloqueo por tiempo.\n\n\nComprensible\nLenguaje claro, neutro y sin tecnicismos innecesarios. Formularios con ayuda contextual, validaciones visibles y mensajes de error con solución sugerida.\n\n\nRobusto\nDiseño compatible con tecnologías asistidas (planificación de roles ARIA en desarrollo HTML). Componentes organizados para garantizar estabilidad semántica y facilidad de lectura automática.\n\n\n\nA continuación se describen algunas características de accesibilidad de la aplicación\n\nModo de alto contraste\nLa aplicación cuenta con un modo de alto contraste que cubre el 100% de las pantallas y que puede ser activado y desactivado en cualquier momento de la sesión.\n\n\n\nPantalla con alto contraste\n\n\n\n\nSoporte para lectores de pantalla\nLos elementos html fueron ajustados para poder ser navegadas con teclado, con un orden de tabulación lógico y con labels que permiten una correcta integración con lectores de pantalla.\n&lt;button type=\"submit\" class=\"btn btn-primary-custom w-100\" aria-label=\"Calcular macronutrientes usando inteligencia artificial\"&gt;\n    &lt;i class=\"fas fa-brain me-2\" aria-hidden=\"true\" aria-hidden=\"true\"&gt;&lt;/i&gt;Calcular Macronutrientes\n&lt;/button&gt;",
-    "crumbs": [
-      "Caracteristicas",
-      "Accesibilidad"
-    ]
-  },
-  {
-    "objectID": "caracteristicas/usabilidad.html",
-    "href": "caracteristicas/usabilidad.html",
-    "title": "Usabilidad",
-    "section": "",
-    "text": "En este enlace puedes descargar nuestro informe de Usabilidad.\nLa aplicación fue desarrollaba tomando en cuenta las 10 heurísticas de usabilidad definidas por Jakob Nielsen, asegurando que el sistema sea eficiente, amigable, predecible y tolerante a errores.\n\n\n\n\n\n\n\nHeurística\nAplicación específica en el sistema\n\n\n\n\nVisibilidad del estado del sistema\nIndicadores visibles como “Consulta enviada”, “Datos guardados” o “Plan generado” brindan retroalimentación inmediata al usuario.\n\n\nConcordancia con el mundo real\nUso de términos familiares como “plan diario”, “seguimiento”, “progreso”, en lugar de jergas técnicas.\n\n\nControl y libertad del usuario\nFunciones como “Editar perfil”, “Cancelar”, “Volver al inicio” disponibles en todo momento.\n\n\nConsistencia y estándares\nBotones con estilo uniforme, iconografía coherente, y estructura de navegación repetida entre módulos.\n\n\nPrevención de errores\nValidación en campos del perfil: no se aceptan letras en campos numéricos ni valores negativos.\n\n\nReconocimiento en lugar de recuerdo\nMenú lateral persistente, etiquetas claras, flujos secuenciales guiados por el sistema.\n\n\nFlexibilidad y eficiencia de uso\nAccesos directos como “Generar plan con IA” y “Registrar peso” están en lugares estratégicos de cada pantalla.\n\n\nEstética y diseño minimalista\nPantallas limpias, máximo tres colores, abundante espacio en blanco, sin elementos decorativos innecesarios.\n\n\nDiagnóstico y recuperación de errores\nLos errores se presentan con explicaciones simples (“La altura debe ser mayor a 1 m”) y propuestas de corrección.\n\n\nAyuda y documentación\nTooltips explicativos para términos como “macros”, “IMC”, “requerimientos calóricos”. Formularios asistidos.",
-    "crumbs": [
-      "Caracteristicas",
-      "Usabilidad"
-    ]
-  },
-  {
-    "objectID": "about/arquitectura.html",
-    "href": "about/arquitectura.html",
-    "title": "Arquitectura de Información",
-    "section": "",
-    "text": "En esta sección se describen algunos elementos del arquitectura de información de Nutri Gemini. Acá puedes descargar el informe completo de Arquitectura de Información\nPara el estudio de la arquitectura de información de la aplicación Nutri Gemini, se llevó a cabo una comparativa con aplicaciones similares en el mercado y se utilizaron factores de comparación relacionados con el nivel de supervisión clínica, integración con Inteligencia Artificial, soporte de distintos idiomas, planes disponibles, accesibilidad y modelos de negocio, con el objetivo de identificar necesidades y por ende oportunidades de negocio. A continuación se puede observar la tabla de análisis de brechas, obtenido como resultado de este análisis\n\n\n\n\n\n\n\n\n\n\nDimensión evaluada\nPresente en apps actuales\nNivel de desarrollo\nNecesidad detectada\nOportunidad de Mejora\n\n\n\n\nSupervisión clínica profesional\nParcial (HealthifyMe)\nBajo\nAlta\n✅✅✅\n\n\nPersonalización médica avanzada\nNo\nMuy Bajo\nMuy Alta\n✅✅✅✅\n\n\nTrazabilidad longitudinal\nParcial (MyFitnessPal)\nBajo\nAlta\n✅✅✅\n\n\nAccesibilidad Universal\nParcial (HealthifyMe)\nBajo\nAlta\n✅✅✅\n\n\nPanel Profesional\nNo\nNulo\nMuy Alta\n✅✅✅✅\n\n\nIntegración Ética con AI\nParcial (todas)\nMuy Bajo\nMuy Alta\n✅✅✅✅\n\n\n\nNota: ✅ representa el nivel de oportunidad estratégica que tiene la plataforma propuesta para cubrir esa brecha\nAdicionalmente, se realizaron encuestas y entrevistas cualitativas a un grupo de nutricionistas, con el fin de evaluar sus intereses y necesidades con respecto a soluciones técnologicas para la práctica nutricional. Entre los principales hallazgos, se encuentran los siguientes:\n\nLas aplicaciones populares son vistas como insuficientes para el trabajo clínico, ya que no permiten trazabilidad, validación profesional ni adaptación médica.\nEl cálculo manual de planes nutricionales es visto como ineficiente, especialmente en modalidad remota.\nLa mayoría de los nutricionistas utiliza ChatGPT o IA de forma informal, pero no lo integra formalmente en su flujo de trabajo.\nLa necesidad de mantener control clínico, evitar errores y cumplir con estándares éticos se identifica como prioridad.\nEl interés por una herramienta “asistente” que no reemplace al profesional, sino que lo potencie, fue unánime.\n\nA continuación se observa el diagrama de organización y estructura de navegación propuesto para Nutri Gemini:\n\n\n\nDiagrama de organización y estructura de navegación",
-    "crumbs": [
-      "Sobre el proyecto",
-      "Arquitectura de Información"
-    ]
-  },
-  {
-    "objectID": "about/figma.html",
-    "href": "about/figma.html",
-    "title": "Figma",
-    "section": "",
-    "text": "En esta sección se describen algunos elementos de la etápa de prototipado del proyecto. Acá puedes descargar el informe completo de Prototipo de Interfaz en Figma\nPara el desarrollo de Nutri Gemini se tomaron en cuenta los siguientes principios de diseño:\n\n\n\n\n\n\n\nPrincipio\nAplicación Práctica\n\n\n\n\nSupervisión clínica profesional\nEl sistema fue concebido a partir del análisis de necesidades reales, protopersonas y encuestas validadas.\n\n\nAccesibilidad universal\nCumple WCAG 2.1: navegación por teclado, contraste adecuado, etiquetas semánticas, texto claro y escalable\n\n\nEscalabilidad\nEstructura modular lista para incorporar futuras funciones como recetas, ejercicios, wearables, etc.\n\n\nÉtica y privacidad\nAutenticación segura, roles diferenciados, validación humana de IA, registro clínico documentado\n\n\nUsabilidad y experiencia fluida\nInteracción simplificada, menús organizados, flujos predecibles y respuestas rápidas en menos de 10 segundos.\n\n\n\nA partir del análisis competitivo de herramientas como MyFitnessPal, HealthifyMe, Yazio y Nutrify, se identificaron brechas críticas. La propuesta del Asistente Nutricional AI destaca por:\n\nIntegrar IA con validación profesional\nPermitir trazabilidad clínica y seguimiento visual\nOfrecer un diseño accesible, bilingüe y clínicamente ético\nAdaptarse a condiciones médicas específicas y no solo metas estéticas\nBrindar un panel profesional diseñado para práctica remota\n\nA continuación se puede observar la tabla de navegación, según el rol:\n\n\n\n\n\n\n\n\nPantalla\nAcciones Permitidas\nUsuarios\n\n\n\n\nBienvenida\nIngresar y ver información general de la aplicación\nTodos\n\n\nInicio de sesión\nValidar usuario. Ingresar según rol\nTodos\n\n\nConfiguración de perfil\nIngresar datos clínicos y preferencias. Guardar\nNutricionista\n\n\nConsulta textual\nEscribir pregunta. Recibir respuesta IA\nPaciente\n\n\nPlan diario personalizado\nVisualizar comidas. Ver macros por bloque\nPaciente\n\n\nSeguimiento\nRegistrar peso, síntomas, hábitos. Ver gráficos\nPaciente\n\n\nPanel profesional\nSeleccionar paciente. Validar y ajustar planes\nNutricionista\n\n\nPanel administrativo\nAgregar/modificar usuarios. Consultar métricas\nAdministrador\n\n\n\n\nEjemplos de Prototipo\nEn este enlace puedes visitar el prototipo completo en Figma.\nEn las siguientes imágenes se puede apreciar algunos de los prototipos creados para la aplicación. En este enlace puedes visitar el prototipo completo en Figma.\n\nPantalla de generación de plan nutricional\n\n\n\n\nPantalla de generación de plan nutricional\n\n\n\nPantalla de gráficas de progreso\n\n\n\n\nPantalla de gráficas de progreso\n\n\n\nDashboard de inicio de nutricionistas\n\n\n\n\nDashboard de inicio de nutricionistas",
-    "crumbs": [
-      "Sobre el proyecto",
-      "Figma"
     ]
   },
   {
@@ -458,14 +44,14 @@
     ]
   },
   {
-    "objectID": "demos/Demos.html",
-    "href": "demos/Demos.html",
-    "title": "Demos",
+    "objectID": "funcionalidades/index.html",
+    "href": "funcionalidades/index.html",
+    "title": "Dentro del alcance",
     "section": "",
-    "text": "A continuación se pueden observar algunos demos de los casos de uso principales de la aplicación\n\nCrear Paciente (Nutricionistas)\n\n\n\nTu navegador no soporta la etiqueta de video. \n\n\nCrear Valoración (Nutricionistas)\n\n\n\nTu navegador no soporta la etiqueta de video. \n\n\nVer Valoración (Pacientes)\n\n\n\nTu navegador no soporta la etiqueta de video. \n\n\nVer mi progreso (Pacientes)\n\n\n\nTu navegador no soporta la etiqueta de video. \n\n\nHabilitación de modo de Alto Contraste (Todos los usuarios)\n\n\n\nTu navegador no soporta la etiqueta de video.",
+    "text": "Las funcionalidades de este proyecto están orientadas a tres grupos de usuarios: Nutricionistas, Pacientes y Administradores. En esta sección se describen las funcionalidades dentro del alcance para cada tipo de usuario, así como aquellas funcionalidades generales, las cuales son independientes del tipo de sesión.\nVisita esta sección para ver las funcionalidades fuera del alcance\n\nFuncionalidades Generales\n\nPantalla de Bienvenida\nInicio y Cierre de Sesión\nInterfaz con alto contraste\nCompatibilidad con lectores de pantalla\n\n\n\nNutricionistas\n\nDashboard de Nutricionistas\nGestión de Pacientes (Consulta, creación y edición)\nGestión de Valoraciones (Consultra, creación y edición)\nCálculo de macronutrientes con Inteligencia Artificial\nCreación de planes nutricionales con Inteligencia Artificial\nCreación de tablas de equivalencias con Inteligencia Artificial\nDashboard de progreso de pacientes\n\n\n\nPacientes\n\nDashboard de Paciente\nHistorial de Valoraciones\nDetalle de Valoraciones\nAcceso a métricas nutricionales, recomendaciones, planes alimenticios y tablas de equivalencias\nGráficas de progreso\n\n\n\nAdministradores\n\nGestión de Pacientes (Consulta, creación, edición y activación/desactivación)\nGestión de Nutricionistas (Consulta, creación, edición y activación/desactivación)\nGestión de Administradores (Consulta, creación, edición y activación/desactivación)\nGestión de Valoraciones (Consultra, creación y edición)\nCálculo de macronutrientes con Inteligencia Artificial\nCreación de planes nutricionales con Inteligencia Artificial\nCreación de tablas de equivalencias con Inteligencia Artificial\nDashboard de progreso de pacientes",
     "crumbs": [
-      "Flujos de la aplicación",
-      "Demos"
+      "Funcionalidades",
+      "Dentro del alcance"
     ]
   },
   {
@@ -477,6 +63,135 @@
     "crumbs": [
       "Flujos de la aplicación",
       "Demos"
+    ]
+  },
+  {
+    "objectID": "caracteristicas/patrones.html",
+    "href": "caracteristicas/patrones.html",
+    "title": "Patrones Arquitectónicos",
+    "section": "",
+    "text": "En este enlace puedes descargar nuestro informe de Patrones de diseño.\nA continuación se describen algunos patrones arquitectónicos utilizados en el desarrollo de Nutri Gemini:\n\nMVC (Model-View-Controller) - Django MVT\n\nModels: usuarios/models.py, pacientes/models.py, valoraciones/models.py\nViews: usuarios/views.py, pacientes/views.py, valoraciones/views.py\nTemplates: Separación clara entre lógica y presentación\nBeneficio: Lógica de negocio separada de las vistas\n\n\n\nSingle Responsibility Principle (SRP)\nEste principio fue aplicado como parte de la práctica de identificación de code smells. En este enlace puedes descargar los detalles de esta refactorización.\n\nclass MacronutrientesCalculator # Solo calcula macronutrientes\nclass PlanComidasGenerator # Solo genera planes\nclass TablaEquivalenciasGenerator # Solo genera tablas\nclass OrquestadorValoracion # Coordina el proceso\n\n\n\nFactory Pattern (Implícito en Django)\n\nDjango ORM actúa como factory para modelos\nSistema de usuarios con diferentes tipos (TipoUsuario.choices)\n\n\n\nTemplate Method Pattern\n\nPlantilla base base.html define estructura\nTemplates específicos implementan secciones concretas",
+    "crumbs": [
+      "Caracteristicas",
+      "Patrones Arquitectónicos"
+    ]
+  },
+  {
+    "objectID": "arq/index.html",
+    "href": "arq/index.html",
+    "title": "Tecnologías utilizadas",
+    "section": "",
+    "text": "Backend\n\nDjango 5.2.2\nPython\n\n\n\nAI en la aplicación\n\nGoogle Gemini AI\n\n\n\nAI para desarrollo\n\nWarp (Claude 4 Sonnet)\n\n\n\nBase de datos\n\nPostgreSQL en Railway\n\n\n\nFrontend\n\nBootstrap 5\nJavaScript\n\n\n\nContenedores\n\nDocker + Docker Compose\n\n\n\nVersionamiento\n\nGithub\n\n\n\nPrototipado\n\nFigma\n\n\n\nDocumentación\n\nQuarto\nHTML",
+    "crumbs": [
+      "Tech Stack",
+      "Tecnologías utilizadas"
+    ]
+  },
+  {
+    "objectID": "about/figma.html",
+    "href": "about/figma.html",
+    "title": "Figma",
+    "section": "",
+    "text": "En esta sección se describen algunos elementos de la etápa de prototipado del proyecto. Acá puedes descargar el informe completo de Prototipo de Interfaz en Figma\nPara el desarrollo de Nutri Gemini se tomaron en cuenta los siguientes principios de diseño:\n\n\n\n\n\n\n\nPrincipio\nAplicación Práctica\n\n\n\n\nSupervisión clínica profesional\nEl sistema fue concebido a partir del análisis de necesidades reales, protopersonas y encuestas validadas.\n\n\nAccesibilidad universal\nCumple WCAG 2.1: navegación por teclado, contraste adecuado, etiquetas semánticas, texto claro y escalable\n\n\nEscalabilidad\nEstructura modular lista para incorporar futuras funciones como recetas, ejercicios, wearables, etc.\n\n\nÉtica y privacidad\nAutenticación segura, roles diferenciados, validación humana de IA, registro clínico documentado\n\n\nUsabilidad y experiencia fluida\nInteracción simplificada, menús organizados, flujos predecibles y respuestas rápidas en menos de 10 segundos.\n\n\n\nA partir del análisis competitivo de herramientas como MyFitnessPal, HealthifyMe, Yazio y Nutrify, se identificaron brechas críticas. La propuesta del Asistente Nutricional AI destaca por:\n\nIntegrar IA con validación profesional\nPermitir trazabilidad clínica y seguimiento visual\nOfrecer un diseño accesible, bilingüe y clínicamente ético\nAdaptarse a condiciones médicas específicas y no solo metas estéticas\nBrindar un panel profesional diseñado para práctica remota\n\nA continuación se puede observar la tabla de navegación, según el rol:\n\n\n\n\n\n\n\n\nPantalla\nAcciones Permitidas\nUsuarios\n\n\n\n\nBienvenida\nIngresar y ver información general de la aplicación\nTodos\n\n\nInicio de sesión\nValidar usuario. Ingresar según rol\nTodos\n\n\nConfiguración de perfil\nIngresar datos clínicos y preferencias. Guardar\nNutricionista\n\n\nConsulta textual\nEscribir pregunta. Recibir respuesta IA\nPaciente\n\n\nPlan diario personalizado\nVisualizar comidas. Ver macros por bloque\nPaciente\n\n\nSeguimiento\nRegistrar peso, síntomas, hábitos. Ver gráficos\nPaciente\n\n\nPanel profesional\nSeleccionar paciente. Validar y ajustar planes\nNutricionista\n\n\nPanel administrativo\nAgregar/modificar usuarios. Consultar métricas\nAdministrador\n\n\n\n\nEjemplos de Prototipo\nEn este enlace puedes visitar el prototipo completo en Figma.\nEn las siguientes imágenes se puede apreciar algunos de los prototipos creados para la aplicación. En este enlace puedes visitar el prototipo completo en Figma.\n\nPantalla de generación de plan nutricional\n\n\n\n\nPantalla de generación de plan nutricional\n\n\n\nPantalla de gráficas de progreso\n\n\n\n\nPantalla de gráficas de progreso\n\n\n\nDashboard de inicio de nutricionistas\n\n\n\n\nDashboard de inicio de nutricionistas",
+    "crumbs": [
+      "Sobre el proyecto",
+      "Figma"
+    ]
+  },
+  {
+    "objectID": "about/arquitectura.html",
+    "href": "about/arquitectura.html",
+    "title": "Arquitectura de Información",
+    "section": "",
+    "text": "En esta sección se describen algunos elementos del arquitectura de información de Nutri Gemini. Acá puedes descargar el informe completo de Arquitectura de Información\nPara el estudio de la arquitectura de información de la aplicación Nutri Gemini, se llevó a cabo una comparativa con aplicaciones similares en el mercado y se utilizaron factores de comparación relacionados con el nivel de supervisión clínica, integración con Inteligencia Artificial, soporte de distintos idiomas, planes disponibles, accesibilidad y modelos de negocio, con el objetivo de identificar necesidades y por ende oportunidades de negocio. A continuación se puede observar la tabla de análisis de brechas, obtenido como resultado de este análisis\n\n\n\n\n\n\n\n\n\n\nDimensión evaluada\nPresente en apps actuales\nNivel de desarrollo\nNecesidad detectada\nOportunidad de Mejora\n\n\n\n\nSupervisión clínica profesional\nParcial (HealthifyMe)\nBajo\nAlta\n✅✅✅\n\n\nPersonalización médica avanzada\nNo\nMuy Bajo\nMuy Alta\n✅✅✅✅\n\n\nTrazabilidad longitudinal\nParcial (MyFitnessPal)\nBajo\nAlta\n✅✅✅\n\n\nAccesibilidad Universal\nParcial (HealthifyMe)\nBajo\nAlta\n✅✅✅\n\n\nPanel Profesional\nNo\nNulo\nMuy Alta\n✅✅✅✅\n\n\nIntegración Ética con AI\nParcial (todas)\nMuy Bajo\nMuy Alta\n✅✅✅✅\n\n\n\nNota: ✅ representa el nivel de oportunidad estratégica que tiene la plataforma propuesta para cubrir esa brecha\nAdicionalmente, se realizaron encuestas y entrevistas cualitativas a un grupo de nutricionistas, con el fin de evaluar sus intereses y necesidades con respecto a soluciones técnologicas para la práctica nutricional. Entre los principales hallazgos, se encuentran los siguientes:\n\nLas aplicaciones populares son vistas como insuficientes para el trabajo clínico, ya que no permiten trazabilidad, validación profesional ni adaptación médica.\nEl cálculo manual de planes nutricionales es visto como ineficiente, especialmente en modalidad remota.\nLa mayoría de los nutricionistas utiliza ChatGPT o IA de forma informal, pero no lo integra formalmente en su flujo de trabajo.\nLa necesidad de mantener control clínico, evitar errores y cumplir con estándares éticos se identifica como prioridad.\nEl interés por una herramienta “asistente” que no reemplace al profesional, sino que lo potencie, fue unánime.\n\nA continuación se observa el diagrama de organización y estructura de navegación propuesto para Nutri Gemini:\n\n\n\nDiagrama de organización y estructura de navegación",
+    "crumbs": [
+      "Sobre el proyecto",
+      "Arquitectura de Información"
+    ]
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Información General",
+    "section": "",
+    "text": "Logo\n\n\nEl objetivo principal de Nutri Gemini es convertirse en un asistente nutricional con Inteligencia Artificial, que le permita a los profesionales en nutrición automatizar procesos repetitivos y mantener una gestión completa de sus pacientes y registro de sus valoraciones. Por otra parte, también pretende ayudarle a los pacientes a acceder de manera sencilla y agradable a los registro de sus valoraciones, planes nutricionales y gráficas de progreso.",
+    "crumbs": [
+      "Sobre el proyecto",
+      "Información General"
+    ]
+  },
+  {
+    "objectID": "caracteristicas/accesibilidad.html",
+    "href": "caracteristicas/accesibilidad.html",
+    "title": "Accesibilidad",
+    "section": "",
+    "text": "En este enlace puedes descargar nuestro informe de Accesibilidad.\nPara asegurar la inclusión de personas con diferentes capacidades, se implementaron criterios de la norma WCAG 2.1, cubriendo los cuatro principios fundamentales: perceptible, operable, comprensible y robusto (W3C, 2018).\n\n\n\n\n\n\n\nPrincipio WCAG\nImplementación\n\n\n\n\nPerceptible\nContraste de color mínimo 7:1 (AAA) en botones y textos. Uso de etiquetas visibles y jerarquía tipográfica clara. Compatibilidad planificada con lectores de pantalla mediante estructura semántica correcta.\n\n\nOperable\nNavegación por teclado posible (enfoque en botones, tabulaciones ordenadas). Botones grandes (≥ 44x44 px) que permiten interacción táctil inclusiva. Secciones reactivas sin bloqueo por tiempo.\n\n\nComprensible\nLenguaje claro, neutro y sin tecnicismos innecesarios. Formularios con ayuda contextual, validaciones visibles y mensajes de error con solución sugerida.\n\n\nRobusto\nDiseño compatible con tecnologías asistidas (planificación de roles ARIA en desarrollo HTML). Componentes organizados para garantizar estabilidad semántica y facilidad de lectura automática.\n\n\n\nA continuación se describen algunas características de accesibilidad de la aplicación\n\nModo de alto contraste\nLa aplicación cuenta con un modo de alto contraste que cubre el 100% de las pantallas y que puede ser activado y desactivado en cualquier momento de la sesión.\n\n\n\nPantalla con alto contraste\n\n\n\n\nSoporte para lectores de pantalla\nLos elementos html fueron ajustados para poder ser navegadas con teclado, con un orden de tabulación lógico y con labels que permiten una correcta integración con lectores de pantalla.\n&lt;button type=\"submit\" class=\"btn btn-primary-custom w-100\" aria-label=\"Calcular macronutrientes usando inteligencia artificial\"&gt;\n    &lt;i class=\"fas fa-brain me-2\" aria-hidden=\"true\" aria-hidden=\"true\"&gt;&lt;/i&gt;Calcular Macronutrientes\n&lt;/button&gt;",
+    "crumbs": [
+      "Caracteristicas",
+      "Accesibilidad"
+    ]
+  },
+  {
+    "objectID": "caracteristicas/usabilidad.html",
+    "href": "caracteristicas/usabilidad.html",
+    "title": "Usabilidad",
+    "section": "",
+    "text": "En este enlace puedes descargar nuestro informe de Usabilidad.\nLa aplicación fue desarrollaba tomando en cuenta las 10 heurísticas de usabilidad definidas por Jakob Nielsen, asegurando que el sistema sea eficiente, amigable, predecible y tolerante a errores.\n\n\n\n\n\n\n\nHeurística\nAplicación específica en el sistema\n\n\n\n\nVisibilidad del estado del sistema\nIndicadores visibles como “Consulta enviada”, “Datos guardados” o “Plan generado” brindan retroalimentación inmediata al usuario.\n\n\nConcordancia con el mundo real\nUso de términos familiares como “plan diario”, “seguimiento”, “progreso”, en lugar de jergas técnicas.\n\n\nControl y libertad del usuario\nFunciones como “Editar perfil”, “Cancelar”, “Volver al inicio” disponibles en todo momento.\n\n\nConsistencia y estándares\nBotones con estilo uniforme, iconografía coherente, y estructura de navegación repetida entre módulos.\n\n\nPrevención de errores\nValidación en campos del perfil: no se aceptan letras en campos numéricos ni valores negativos.\n\n\nReconocimiento en lugar de recuerdo\nMenú lateral persistente, etiquetas claras, flujos secuenciales guiados por el sistema.\n\n\nFlexibilidad y eficiencia de uso\nAccesos directos como “Generar plan con IA” y “Registrar peso” están en lugares estratégicos de cada pantalla.\n\n\nEstética y diseño minimalista\nPantallas limpias, máximo tres colores, abundante espacio en blanco, sin elementos decorativos innecesarios.\n\n\nDiagnóstico y recuperación de errores\nLos errores se presentan con explicaciones simples (“La altura debe ser mayor a 1 m”) y propuestas de corrección.\n\n\nAyuda y documentación\nTooltips explicativos para términos como “macros”, “IMC”, “requerimientos calóricos”. Formularios asistidos.",
+    "crumbs": [
+      "Caracteristicas",
+      "Usabilidad"
+    ]
+  },
+  {
+    "objectID": "demos/index.html",
+    "href": "demos/index.html",
+    "title": "Descripción de flujos",
+    "section": "",
+    "text": "En esta sección se describen los flujos principales de la aplicación. Para esta documentación, no se incluyeron flujos alternativos ni múltiples flujos por tipo de usuario, sino que se detallaron los flujos desde el punto de vista del usuario para el cuál es más relevante.\n\nIniciar Sesión (Cualquier usuario)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl usuario presiona Ir al Login, desde la pantalla de bienvenida\n\n\n\n\n\nEl sistema retorna el formulario de Inicio de Sesión\n\n\n\nEl usuario ingresa su usuario y contraseña\n\n\n\n\n\nEl sistema consulta la base de datos para validar las credenciales\n\n\n\n\n\nLa base de datos retorna la validación\n\n\n\nEl sistema dirige al dashboard de inicio según el tipo de usuario\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nActivar modo de alto contraste (Cualquier usuario)\n\n\n\nUsuario\nSistema\n\n\n\n\nEl usuario presiona el botón ‘Alto Contraste’\n\n\n\n\nEl sistema actualiza todas las pantallas al modo de Alto Contraste\n\n\n\nCaso de uso finaliza\n\n\n\n\n\nDesactivar/Activar un usuario (Usuario de aministrador)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl administrador ingresa al dashboard de usuarios\n\n\n\n\n\nEl sistema retorna la lista de usuarios y opciones de búsqueda\n\n\n\nEl administrador realiza su búsqueda\n\n\n\n\n\nEl sistema filtra de acuerdo a los parámetros ingresados por el administrador\n\n\n\nEl administrador presiona el botón de activar o desactivar un usuario\n\n\n\n\n\nEl sistema actualiza la base de datos con el cambio realizado\n\n\n\n\n\nLa base de datos actualiza el campo de estado del usuario\n\n\n\nEl sistema acutaliza el estado del usuario en la interfaz gráfica\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nCrear un nutricionista (Usuario de administrador)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl administrador ingresa a Crear Nutricionista\n\n\n\n\n\nEl sistema retorna el formulario de creacion de nutricionistas\n\n\n\nEl administrador completa los campos requeridos\n\n\n\n\n\nEl sistema auto genera una contraseña e inserta los registros en la base de datos\n\n\n\n\n\nLa base de datos guarda el registro del nuevo nutricionista\n\n\n\nEl sistema retorna un mensaje de éxito y provee la contraseña del usuario\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nCrear un paciente (Usuario de nutricionista o administrador)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl nutricionista o administrador ingresa a Crear Paciente\n\n\n\n\n\nEl sistema retorna el formulario de creacion de pacientes\n\n\n\nEl nutricionista o administrador completa los campos requeridos\n\n\n\n\n\nEl sistema auto genera una contraseña e inserta los registros en la base de datos\n\n\n\n\n\nLa base de datos guarda el registro del nuevo paciente\n\n\n\nEl sistema retorna un mensaje de éxito y provee la contraseña del usuario\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nCrear una valoración (Usuario de nutricionista o administrador)\n\n\n\n\n\n\n\n\n\nUsuario\nSistema\nGemini API\nBase de Datos\n\n\n\n\nEl nutricionista o administrador ingresa a Crear Valoración\n\n\n\n\n\n\nEl sistema retorna el formulario de creación de una valoración\n\n\n\n\nEl nutricionista o administrador completa los campos requeridos\n\n\n\n\n\n\nEl sistema se conecta con el API de Gemini para obtener los macronutrientes, plan alimenticio, recomendaciones y tabla de equivalencia\n\n\n\n\n\n\nGemini retorna los valores solicitados\n\n\n\n\nEl sistema inserta los registros de la valoración a la base de datos\n\n\n\n\n\n\n\nLa base de datos crea un nuevo registro para la valoración\n\n\n\nEl sistema muestra el detalle de la valoración\n\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\n\nVer Historial de Valoraciones (Usuario de paciente)\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl paciente ingresa a Ver mis Valoraciones\n\n\n\n\n\nEl sistema solicita los registros a la base de datos\n\n\n\n\n\nLa base de datos devuelve la lista de valoraciones\n\n\n\nEl sistema retorna la lista de valoraciones del paciente\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nVer Detalle de Valoracion con recomendaciones, plan nutricional y tabla de equivalencias (Usuario de paciente)\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nDentro de Mis Valoraciones, el paciente presiona Ver Detalles\n\n\n\n\n\nEl sistema solicita los registros a la base de datos\n\n\n\n\n\nLa base de datos devuelve los detalles de la valoración\n\n\n\nEl sistema retorna los detalles de la valoracion seleccionada\n\n\n\n\nCaso de uso finaliza\n\n\n\n\n\n\nVer gráficas de progreso (Usuario de paciente)\n\n\n\n\n\n\n\n\nUsuario\nSistema\nBase de Datos\n\n\n\n\nEl usuario presiona Mi Progreso\n\n\n\n\n\nEl sistema solicita los registros de peso, grasa y músculo de todas las valoraciones asociadas al paciente\n\n\n\n\n\nLa base de datos devuelve los valores\n\n\n\nEl sistema devuelve los gráficos de progreso\n\n\n\n\nCaso de uso finaliza",
+    "crumbs": [
+      "Flujos de la aplicación",
+      "Descripción de flujos"
+    ]
+  },
+  {
+    "objectID": "funcionalidades/out.html",
+    "href": "funcionalidades/out.html",
+    "title": "Fuera del alcance",
+    "section": "",
+    "text": "La siguiente lista contiene funcionalidades deseadas pero que no fueron incluídas en esta versión, principalmente por cuestiones de tiempo y complejidad.\n\nFuncionalidades Generales\n\nReset de credenciales\nDoble autenticación\nAletras por correo electrónico\nCompatibilidad con lectores de pantalla\n\n\n\nNutricionistas\n\nMódulo para agendar citas a través de la aplicación\nConsulta de agenda\nChat con la Inteligencia Artificial\n\n\n\nPacientes\n\nChat con la Inteligencia Artificial\nReserva de citas a través de la aplicación\nMódulo para contactar al nutricionista\n\n\n\nAdministradores\n\nSistema de tiquetes",
+    "crumbs": [
+      "Funcionalidades",
+      "Fuera del alcance"
+    ]
+  },
+  {
+    "objectID": "index.html#sobre-este-sitio",
+    "href": "index.html#sobre-este-sitio",
+    "title": "Proyecto de Diseño de Sistemas de Software",
+    "section": "Sobre este sitio",
+    "text": "Sobre este sitio\nEste sitio contiene la documentación del proyecto funcional del curso de Diseño de Sistemas de Software (PSWE-04), del segundo cuatrimestre de la maestría en Ingeniería del Sofware con énfasis en Arquitectura y Diseño de Software de la Universidad Cenfotec.",
+    "crumbs": [
+      "Proyecto de Diseño de Sistemas de Software"
+    ]
+  },
+  {
+    "objectID": "index.html#contenido",
+    "href": "index.html#contenido",
+    "title": "Proyecto de Diseño de Sistemas de Software",
+    "section": "Contenido",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio y etapas tempranas del proceso de diseño de la aplicación Nutri Gemini.\n\nInformación General\nArquitectura de la Información\nFigma\n\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\nDentro del alcance\nFuera del alcance\n\n\n\nFlujos de la aplicación\nEn esta sección podrás observar algunos de los principales flujos del sistema Nutri Gemini.\n\nDescripción de flujos\nDemos\n\n\n\nTech Stack\nEn esta sección podrás conocer las tecnologías utilizadas para su desarrollo.\n\nTecnologías utilizadas\n\n\n\nCaracterísticas\nEn esta sección podrás conocer características de la aplicación relacionadas con Accesibilidad, Usabilidad y Patrones de diseño.\n\nAccesibilidad\nUsabilidad\nPatrones Arquitectónicos\n\n\n\nInstalación\nEn esta sección podrás encontrar un paso a paso para la ejecución de la aplicación.\n\nGuía de ejecución\n\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto\n\nExperiencias y hallazgos del equipo",
+    "crumbs": [
+      "Proyecto de Diseño de Sistemas de Software"
+    ]
+  },
+  {
+    "objectID": "index.html#enlaces",
+    "href": "index.html#enlaces",
+    "title": "Proyecto de Diseño de Sistemas de Software",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nEnlace al repositorio de Github del proyecto\nEnlace al repositorio de Github de esta documentación\nAcá podrás descargar la presentación del proyecto: HTML (Mejor calidad) | PDF",
+    "crumbs": [
+      "Proyecto de Diseño de Sistemas de Software"
     ]
   }
 ]
