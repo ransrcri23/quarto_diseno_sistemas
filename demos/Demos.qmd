@@ -1,0 +1,50 @@
+---
+title: "Demos"
+---
+
+A continuación se pueden observar algunos demos de los casos de uso principales de la aplicación
+
+### Crear Paciente (Nutricionistas)
+
+<div>
+<video width="640" height="360" controls>
+  <source src="./recursos/crearpaciente.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+</div>
+
+### Crear Valoración (Nutricionistas)
+
+<div>
+<video width="640" height="360" controls>
+  <source src="./recursos/crearvaloracion.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+</div>
+
+### Ver Valoración (Pacientes)
+
+<div>
+<video width="640" height="360" controls>
+  <source src="./recursos/vervaloracion.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+</div>
+
+### Ver mi progreso (Pacientes)
+
+<div>
+<video width="640" height="360" controls>
+  <source src="./recursos/verprogreso.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+</div>
+
+### Habilitación de modo de Alto Contraste (Todos los usuarios)
+
+<div>
+<video width="640" height="360" controls>
+  <source src="./recursos/altocontraste.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+</div>

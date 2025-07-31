@@ -14,7 +14,7 @@
     "href": "index.html#contenido",
     "title": "Proyecto de Diseño de Sistemas de Software",
     "section": "Contenido",
-    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio y etapas tempranas del proceso de diseño de la aplicación Nutri Gemini.\n\nInformación General\nArquitectura de la Información\nFigma\n\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\nDentro del alcance\nFuera del alcance\n\n\n\nFlujos de la aplicación\nEn esta sección podrás observar algunos de los principales flujos del sistema Nutri Gemini.\n\nDescripción de flujos\n\n\n\nTech Stack\nEn esta sección podrás conocer las tecnologías utilizadas para su desarrollo.\n\nTecnologías utilizadas\n\n\n\nCaracterísticas\nEn esta sección podrás conocer características de la aplicación relacionadas con Accesibilidad, Usabilidad y Patrones de diseño.\n\nAccesibilidad\nUsabilidad\nPatrones Arquitectónicos\n\n\n\nInstalación\nEn esta sección podrás encontrar un paso a paso para la ejecución de la aplicación.\n\nGuía de ejecución\n\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto\n\nExperiencias y hallazgos del equipo",
+    "text": "Contenido\n\nSobre el proyecto\nEn esta sección podrás ver información general sobre el contexto de negocio y etapas tempranas del proceso de diseño de la aplicación Nutri Gemini.\n\nInformación General\nArquitectura de la Información\nFigma\n\n\n\nFuncionalidades\nEn esta sección podrás conocer las funcionalidades dentro y fuera del alcance de este proyecto.\n\nDentro del alcance\nFuera del alcance\n\n\n\nFlujos de la aplicación\nEn esta sección podrás observar algunos de los principales flujos del sistema Nutri Gemini.\n\nDescripción de flujos\nDemos\n\n\n\nTech Stack\nEn esta sección podrás conocer las tecnologías utilizadas para su desarrollo.\n\nTecnologías utilizadas\n\n\n\nCaracterísticas\nEn esta sección podrás conocer características de la aplicación relacionadas con Accesibilidad, Usabilidad y Patrones de diseño.\n\nAccesibilidad\nUsabilidad\nPatrones Arquitectónicos\n\n\n\nInstalación\nEn esta sección podrás encontrar un paso a paso para la ejecución de la aplicación.\n\nGuía de ejecución\n\n\n\nHallazgos\nEn esta sección están documentados los hallazgos del grupo de trabajo con respecto al desarrollo de este proyecto\n\nExperiencias y hallazgos del equipo",
     "crumbs": [
       "Proyecto de Diseño de Sistemas de Software"
     ]
@@ -455,6 +455,17 @@
     "crumbs": [
       "Hallazgos",
       "Experiencias y hallazgos del equipo"
+    ]
+  },
+  {
+    "objectID": "demos/Demos.html",
+    "href": "demos/Demos.html",
+    "title": "Demos",
+    "section": "",
+    "text": "A continuación se pueden observar algunos demos de los casos de uso principales de la aplicación\n\nCrear Paciente (Nutricionistas)\n\n\n\nTu navegador no soporta la etiqueta de video. \n\n\nCrear Valoración (Nutricionistas)\n\n\n\nTu navegador no soporta la etiqueta de video. \n\n\nVer Valoración (Pacientes)\n\n\n\nTu navegador no soporta la etiqueta de video. \n\n\nVer mi progreso (Pacientes)\n\n\n\nTu navegador no soporta la etiqueta de video. \n\n\nHabilitación de modo de Alto Contraste (Todos los usuarios)\n\n\n\nTu navegador no soporta la etiqueta de video.",
+    "crumbs": [
+      "Flujos de la aplicación",
+      "Demos"
     ]
   }
 ]

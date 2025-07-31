@@ -25,6 +25,7 @@ website:
       - section: "Flujos de la aplicación"
         contents:
           - demos/index.qmd
+          - demos/Demos.qmd
       - section: "Tech Stack"
         contents:
           - arq/index.qmd
