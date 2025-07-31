@@ -39,7 +39,7 @@ En esta sección podrás conocer las funcionalidades dentro y fuera del alcance 
 En esta sección podrás observar algunos de los principales flujos del sistema Nutri Gemini.
 
 - [Descripción de flujos](demos/index.qmd)
-- [Demos](demos/Demos.qmd)
+- [Demos](demos/demostraciones.qmd)
 
 ### Tech Stack
 
