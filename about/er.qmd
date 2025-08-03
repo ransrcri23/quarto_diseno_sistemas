@@ -1,0 +1,125 @@
+---
+title: "Diagrama Entidad-Relacion"
+---
+
+## Diagrama de Entidad-Relación - Sistema de Nutrición
+
+### Entidades Principales
+
+```
+┌─────────────────────────────────┐
+│            USUARIO              │
+├─────────────────────────────────┤
+│ PK: id                          │
+│ ── email (unique)               │
+│ ── username                     │
+│ ── first_name                   │
+│ ── last_name                    │
+│ ── tipo_usuario (ADMIN/NUTRI/   │
+│                  PACIENTE)      │
+│ ── telefono                     │
+│ ── fecha_nacimiento             │
+│ ── activo                       │
+│ ── fecha_creacion               │
+│ ── fecha_actualizacion          │
+└─────────────────────────────────┘
+           │
+           │ 1:1
+           │
+   ┌───────┴──────────┬─────────────────┐
+   │                  │                 │
+   │ 1:1              │ 1:1             │ 1:1
+   ▼                  ▼                 ▼
+┌──────────────┐ ┌────────────────┐ ┌──────────────────┐
+│PERFIL        │ │PERFIL          │ │PERFIL            │
+│NUTRICIONISTA │ │ADMINISTRADOR   │ │PACIENTE          │
+├──────────────┤ │(implícito)     │ ├──────────────────┤
+│PK: id        │ └────────────────┘ │PK: id            │
+│FK: usuario   │                    │FK: usuario       │
+│── numero_    │                    │FK: paciente      │
+│   colegiado  │                    │   (opcional)     │
+│── especialid.│                    └──────────────────┘
+│── años_exp.  │                             │
+│── biografia  │                             │ 1:1
+└──────────────┘                             │ (opcional)
+                                             ▼
+                                    ┌─────────────────────┐
+                                    │      PACIENTE       │
+                                    ├─────────────────────┤
+                                    │ PK: id              │
+                                    │ ── nombre           │
+                                    │ ── apellidos        │
+                                    │ ── correo_electroni.│
+                                    │ ── telefono         │
+                                    │ ── fecha_nacimiento │
+                                    │ ── estatura         │
+                                    │ ── ocupacion        │
+                                    │ ── deportes         │
+                                    │ ── horas_semana     │
+                                    │ ── alergias         │
+                                    │ ── condiciones_esp. │
+                                    │ ── objetivos        │
+                                    │ ── activo           │
+                                    │ ── fecha_creacion   │
+                                    │ ── fecha_actualiz.  │
+                                    └─────────────────────┘
+                                             │
+                                             │ 1:N
+                                             │
+                                             ▼
+                                    ┌─────────────────────┐
+                                    │    VALORACION       │
+                                    ├─────────────────────┤
+                                    │ PK: id              │
+                                    │ FK: paciente        │
+                                    │ ── peso_kg          │
+                                    │ ── kg_grasa         │
+                                    │ ── kg_proteinas     │
+                                    │ ── kg_minerales     │
+                                    │ ── litros_agua      │
+                                    │ ── carbohidratos_g  │
+                                    │ ── proteinas_g      │
+                                    │ ── grasas_g         │
+                                    │ ── calorias_totales │
+                                    │ ── recomendaciones  │
+                                    │ ── plan_comidas     │
+                                    │ ── tabla_equival.   │
+                                    │ ── notas            │
+                                    │ ── fecha_creacion   │
+                                    │ ── fecha_actualiz.  │
+                                    └─────────────────────┘
+```
+
+### Relaciones
+
+#### 1. Usuario → Perfiles (1:1)
+- **Usuario** tiene una relación **uno a uno** con sus perfiles específicos
+- Según el `tipo_usuario`, se activa el perfil correspondiente:
+  - NUTRICIONISTA → PerfilNutricionista
+  - PACIENTE → PerfilPaciente
+  - ADMINISTRADOR → Sin perfil específico (usa campos base de Usuario)
+
+#### 2. PerfilPaciente → Paciente (1:1 opcional)
+- **PerfilPaciente** puede estar vinculado opcionalmente a un **Paciente**
+- Esta relación permite que un usuario registrado como paciente tenga datos médicos completos
+
+#### 3. Paciente → Valoración (1:N)
+- Un **Paciente** puede tener múltiples **Valoraciones** a lo largo del tiempo
+- Cada valoración registra mediciones físicas y cálculos nutricionales específicos
+
+## Características Especiales
+
+#### Usuario
+- Utiliza `email` como USERNAME_FIELD
+- Sistema de tipos de usuario con asignación automática de grupos
+- Campos de auditoría (fechas de creación y actualización)
+
+#### Paciente
+- Datos médicos y de estilo de vida completos
+- Propiedad calculada `edad` basada en fecha_nacimiento
+
+#### Valoración
+- Validación automática: suma de componentes corporales debe igualar peso total
+- Propiedades calculadas: porcentaje de grasa y músculo
+- Campos para macronutrientes calculados por IA (Gemini)
+- Ordenamiento por fecha (más recientes primero)

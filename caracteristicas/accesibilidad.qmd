@@ -2,7 +2,7 @@
 title: "Accesibilidad"
 ---
 
-<a href="./recursos/tbd.pdf" download>En este enlace</a> puedes descargar nuestro informe de Accesibilidad.
+<a href="./recursos/Informe - Accesibilidad Sanabria Montoya, Sanchéz Rivera.pdf" download>En este enlace</a> puedes descargar nuestro informe de Accesibilidad.
 
 Para asegurar la inclusión de personas con diferentes capacidades, se implementaron criterios de la norma WCAG 2.1, cubriendo los cuatro principios fundamentales: perceptible, operable, comprensible y robusto (W3C, 2018). 
 

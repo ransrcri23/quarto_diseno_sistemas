@@ -18,6 +18,7 @@ website:
           - about/index.qmd
           - about/arquitectura.qmd
           - about/figma.qmd
+          - about/er.qmd
       - section: "Funcionalidades"
         contents:
           - funcionalidades/index.qmd
